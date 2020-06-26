@@ -750,11 +750,11 @@ public class DiUserController {
 - 애플리케이션 전체에 걸쳐 사용되는 기능(부가 기능)을 재사용하도록 지원한다.
 - 관점 지향 프로그래밍으로 프로젝트 구조를 바라 보는 관점을 바꿔보자는 이야기로, 보통 제 3자의 관점에서 바라보자 라는 이야기를 합니다.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/06d0d532-9caf-4316-b202-304109af4fb5/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/06d0d532-9caf-4316-b202-304109af4fb5/Untitled.png)
+![aop-1-1](https://github.com/ksy90101/TIL/blob/master/spring/img/aop-1-1.png?raw=true)
 
 - 위와 같이 핵심 기능 관점에서 봤을때 각자 코드를 구현하고 있는 것 처럼 보입니다.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c78b4220-6a7c-4d2e-b419-7e80571b5190/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c78b4220-6a7c-4d2e-b419-7e80571b5190/Untitled.png)
+![aop-1-2](https://github.com/ksy90101/TIL/blob/master/spring/img/aop-1-2.png)
 
 - 그러나 부가 기능 관점에서 봤을때, 수행 시간 측정을 나타내는 메소드가 공통되는 것을 알 수 있습니다.
 
@@ -792,7 +792,7 @@ public class DiUserController {
     - Target을 감싸서 Target의 요청을 대신 받아주는 Wrapping Object
     - 클라이언트에서 Target을 호출하면 Target이 아닌 Proxy가 호출되어, 타켓 메소드 실행전에 선처리, 타켓 메소드 실행 후, 후처리를 실행하도록 구성되어 있습니다.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3d66b380-9153-4b2f-a7ec-4893bed8a86f/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3d66b380-9153-4b2f-a7ec-4893bed8a86f/Untitled.png)
+![aop-1-3](https://github.com/ksy90101/TIL/blob/master/spring/img/aop-1-3.png)
 
 - Introduction
     - 타켓 클래스에 코드 변경없이 신규 메소드나 멤버변수를 추가하는 기능
