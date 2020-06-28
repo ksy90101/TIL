@@ -30,7 +30,7 @@ array.filter((element, index, array) => {
 })
 ```
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d930a530-c079-4378-bb28-76d14fd94b8d/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d930a530-c079-4378-bb28-76d14fd94b8d/Untitled.png)
+![arrayFilter-1](https://github.com/ksy90101/TIL/blob/master/javascript/img/arrayFilter-1.png)
 
 ### 응용 예제
 
@@ -52,7 +52,7 @@ const json = [{name : "아이유", age: 28},
 json.filter(({name, age}) => age === 28);
 ```
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bd511825-3e0e-432a-8a9e-ee7ca5b56039/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bd511825-3e0e-432a-8a9e-ee7ca5b56039/Untitled.png)
+![arrayFilter-2](https://github.com/ksy90101/TIL/blob/master/javascript/img/arrayFilter-2.png)
 
 - 아래와 같이 json 유효성 검사에도 사용이 가능하다.
 
@@ -72,4 +72,9 @@ var arr = [
 arr.filter(({id}) => isNumber(id) && id !== 0);
 ```
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/26ec8912-d0a3-4676-b26a-1cf0cc31874c/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/26ec8912-d0a3-4676-b26a-1cf0cc31874c/Untitled.png)
+![arrayFilter-3](https://github.com/ksy90101/TIL/blob/master/javascript/img/arrayFilter-3.png)
+
+### 참고자료
+
+- [https://ktpark1651.tistory.com/215](https://ktpark1651.tistory.com/215)
+- [https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Array/filter](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
