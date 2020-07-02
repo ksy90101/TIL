@@ -3,6 +3,7 @@ Today I Learning
 
 ## JavaScirpt
 - [Array.filter()](https://github.com/ksy90101/TIL/blob/master/javascript/ArrayFilter.md)
+- [Array.sort()](https://github.com/ksy90101/TIL/blob/master/javascript/ArraySort.md)
 
 ## Java
 
