@@ -1,5 +1,5 @@
 # TIL
-Today I Learning
+🗂 Today I Learning
 
 ## JavaScirpt
 - [Array.filter()](https://github.com/ksy90101/TIL/blob/master/javascript/ArrayFilter.md)
@@ -11,12 +11,12 @@ Today I Learning
 - [Enum Field Method And Instance](https://github.com/ksy90101/TIL/blob/master/java/EnumField.md)
   - [Ex Code](https://github.com/ksy90101/ex-code/tree/master/enum-field-ex)
 
-## Spring
+## 🌷 Spring
 
 - [AOP](https://github.com/ksy90101/TIL/blob/master/spring/AOP.md)
   - [Ex Code](https://github.com/ksy90101/ex-code/tree/master/jojoldu-aop-ex)
   
-  ## lecture
+## 💻 lecture
   
 - [\[인프런\] Vue.js 시작하기 - Age of Vue.js](https://github.com/ksy90101/age-of-vue-js)
   - [0. 개발환경설정](https://github.com/ksy90101/age-of-vue-js/blob/master/theorem/0.md)
