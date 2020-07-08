@@ -9,13 +9,14 @@
 ## Java
 
 - [Enum Field Method And Instance](https://github.com/ksy90101/TIL/blob/master/java/EnumField.md)
-  - [Ex Code](https://github.com/ksy90101/ex-code/tree/master/enum-field-ex)
+  - [예제코드](https://github.com/ksy90101/ex-code/tree/master/enum-field-ex)
 
 ## 🌷 Spring
 
 - [AOP](https://github.com/ksy90101/TIL/blob/master/spring/AOP.md)
-  - [Ex Code](https://github.com/ksy90101/ex-code/tree/master/jojoldu-aop-ex)
+  - [예제코드](https://github.com/ksy90101/ex-code/tree/master/jojoldu-aop-ex)
 - [Spring Data JPA Logging](https://github.com/ksy90101/TIL/blob/master/spring/spring-data-jpa-logging.md)
+  - [예제코드](https://github.com/ksy90101/jpa-lifecycle-properties-ex)
   
 ## 💻 lecture
   
