@@ -1,5 +1,7 @@
+> [예제코드](https://github.com/ksy90101/jpa-lifecycle-properties-ex)
+
 - Spring Data JPA는 스키마를 자동으로 생성해준다.
-- 스키마를 생성하는 `application.properties` 값을 한번 살펴보자.
+- 스키마를 생성하는 [application.properties](http://application.properties) 값을 한번 살펴보자.
 
 - 아래와 같은 Entity를 만들어 본다.
 
@@ -75,9 +77,10 @@ public class Station {
     ```
 
     ```java
-    package jpa.hands.on.part1;
+    package jpa.properties.ex.domain;
 
     import static org.assertj.core.api.Assertions.*;
+    import static org.junit.jupiter.api.Assertions.*;
 
     import org.junit.jupiter.api.Test;
     import org.springframework.beans.factory.annotation.Autowired;
@@ -92,8 +95,11 @@ public class Station {
     	@Test
     	void saveTest() {
     		Station station = new Station("잠실역");
-    		Station expected = stationRepository.save(station);
-    		assertThat(expected).isNotNull();
+    		Station actual = stationRepository.save(station);
+    		assertAll(
+    			() -> assertThat(actual.getId()).isNotNull(),
+    			() -> assertThat(actual.getName()).isEqualTo(station.getName())
+    		);
     	}
     }
     ```
@@ -127,13 +133,13 @@ public class Station {
     ```
 
 5. logging.level.org.springframework.jdbc.datasource.init.ScriptUtils=DEBUG
+    - data.sql과 schema.sql를 출력한다.
     - 이걸 테스트 하기 위해 data.sql을 만들어 쿼리를 하나 추가한다.
 
     ```java
     insert into station (name) values ('잠실새내역');
     ```
-    
-    - data.sql과 schema.sql를 출력한다.
+
     ```java
     2020-07-08 19:44:09.472 DEBUG 29602 --- [         task-2] o.s.jdbc.datasource.init.ScriptUtils     : Executing SQL script from URL [file:/Users/seyunkim/workspace/lecture/jpa-hands-on/build/resources/main/data.sql]
     2020-07-08 19:44:09.474 DEBUG 29602 --- [         task-2] o.s.jdbc.datasource.init.ScriptUtils     : 1 returned as update count for SQL: insert into station (name) values ('잠실새내역')
