@@ -15,6 +15,7 @@
 
 - [AOP](https://github.com/ksy90101/TIL/blob/master/spring/AOP.md)
   - [Ex Code](https://github.com/ksy90101/ex-code/tree/master/jojoldu-aop-ex)
+- [Spring Data JPA Loggin](https://github.com/ksy90101/TIL/blob/master/spring/spring-data-jpa-loggin.md)
   
 ## 💻 lecture
   
