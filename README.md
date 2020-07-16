@@ -10,6 +10,8 @@
 
 - [Enum Field Method And Instance](https://github.com/ksy90101/TIL/blob/master/java/EnumField.md)
   - [예제코드](https://github.com/ksy90101/ex-code/tree/master/enum-field-ex)
+- [Lombok 사용법 1 (XXXArgsConstructor, Getter, Setter, ToString)](https://github.com/ksy90101/TIL/blob/master/java/lombok-1.md)
+  - [예제코드](https://github.com/ksy90101/lombok-ex)
 
 ## 🌷 Spring
 
