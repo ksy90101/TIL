@@ -24,11 +24,11 @@ annotationProcessor 'org.projectlombok:lombok'
 
 - 아래의 사진과 같이 Lombok Plugin을 설치한다.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/40c27663-8858-45a6-850a-4056dc173684/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/40c27663-8858-45a6-850a-4056dc173684/Untitled.png)
+![lombok-1-1](https://github.com/ksy90101/TIL/blob/master/java/image/lombok-1-1.png?raw=true)
 
-- 아래 사진과 같이 `Enable annotation processing`을 체크한다.
+- 아래 사진과 같이 `Enable annotation processing`을 체크한다.\
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3f009e07-c944-4864-9873-82f753e90f02/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3f009e07-c944-4864-9873-82f753e90f02/Untitled.png)
+![lombok-1-2](https://github.com/ksy90101/TIL/blob/master/java/image/lombok-1-2.png?raw=true)
 
 ## @XXXArgsConstructor
 
