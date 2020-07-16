@@ -17,9 +17,7 @@
   - [예제코드](https://github.com/ksy90101/ex-code/tree/master/jojoldu-aop-ex)
 - [Spring Data JPA Logging](https://github.com/ksy90101/TIL/blob/master/spring/spring-data-jpa-logging.md)
   - [예제코드](https://github.com/ksy90101/jpa-lifecycle-properties-ex)
-- [Spring JPA LifeCycle](https://github.com/ksy90101/TIL/blob/master/spring/spring-jpa-lifecycle.md)
-  - [예제코드](https://github.com/ksy90101/jpa-lifecycle-properties-ex)
-
+  
 ## 💻 lecture
   
 - [\[인프런\] Vue.js 시작하기 - Age of Vue.js](https://github.com/ksy90101/age-of-vue-js)
