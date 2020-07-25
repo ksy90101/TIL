@@ -949,7 +949,7 @@ public class SneakyThrowsEx {
 
 - log 필드를 자동으로 생성해주며, 지원되는 Logger에 따라 다른 어노테이션을 사용하면 된다.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/41e57d50-3c11-42c8-9efd-312abc943b9f/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/41e57d50-3c11-42c8-9efd-312abc943b9f/Untitled.png)
+![lombok-2-1](https://github.com/ksy90101/TIL/blob/master/java/image/lombok-2-1.png?raw=true)
 
 ## @Synchronized
 
