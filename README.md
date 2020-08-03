@@ -5,6 +5,7 @@
 - [Array.filter()](https://github.com/ksy90101/TIL/blob/master/javascript/ArrayFilter.md)
 - [Array.sort()](https://github.com/ksy90101/TIL/blob/master/javascript/ArraySort.md)
 - [원하는 날짜의 요일을 원하는 포맷으로 출력해보자.](https://github.com/ksy90101/TIL/blob/master/javascript/getWeek.md)
+- [ESLint와 Prettier를 알아보자(with vue, airbnb)](https://github.com/ksy90101/TIL/blob/master/javascript/eslint-prettier.md)
 
 ## Java
 
