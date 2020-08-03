@@ -9,7 +9,7 @@
 ## eslint
 
 - 여기서 lint란 소스 코드에 문제가 있는지 탐색하는 작업을 의미하고, linter는 이 작업을 도와주는 소프트웨어이다.
-- 자바스키립트는 컴파일 과정이 없는 인터프리터 언어로 런타임 에러가 발생할 확률이 높기 때문에 사전에 에러를 최대한 잡아주는 것이 중요하다.
+- 자바스크립트는 컴파일 과정이 없는 인터프리터 언어로 런타임 에러가 발생할 확률이 높기 때문에 사전에 에러를 최대한 잡아주는 것이 중요하다.
 - 이때 자바스크립트진영의 오픈소스로 정적 분석 도구로 eslint를 많이 사용된다. 정적 분석 도구란 코드를 분석해서 문법 오류, 안티 패턴 등을 찾아 일관된 코드 스타일로 작성할 수 있게 하는 것이다.
 - 위에서 코딩 컨벤션을 공개한 Airbnb나 Goolge에서 스타일 가이드를 제공하기 때문에 서비스 로직에 집중하여 개발하기 쉽다.
 
@@ -51,10 +51,21 @@ module.exports = {
 - 여기서 중점적으로 봐야 하는 부분은 `extneds`와 `rules` 입니다.
     - extends : ESLint의 설정을 확장해서 사용할 때 사용합니다. 초기값은 ESLint에서 추천하는 규칙들이 적용된 `eslint:recommended` 이지만, 실제 프로젝트에서는 airbnb나 google에서 제안하는 방식을 많이 사용합니다.
     - rules : 기존의 rule을 덮어쓰고자 할 때 사용하는 곳으로 커스텀하게 규칙을 정할 수 있습니다.
-- [airbnb eslint github](https://github.com/airbnb/javascript)
+- [airbnb eslint github](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb)
 - [google eslint github](https://github.com/google/eslint-config-google)
+
 - [eslint document](https://eslint.org/)
 - [eslint import plugin](https://github.com/benmosher/eslint-plugin-import)
+
+## Airbnb ESLint를 사용해보자.
+
+```jsx
+npm install airbnb-confgi-airbnb -g
+npm install eslint-plugin-import -g
+```
+
+- 아래와 같이 extends에 airbnb를 넣어주면 된다.
+- 자세한 내용은 위의 링크를 참고하시면 될것 같습니다.
 
 ## Vue Style Guide에 맞춰 eslint 설정하기
 
@@ -88,15 +99,15 @@ indent: ['error', 2],
 'import/extensions': 'off'
 ```
 
-- [semi](https://eslint.org/docs/rules/semi#top) : 세미콜론을 사용할지 여부
+- [semi](https://eslint.org/docs/rules/semi#top) : 세미콜론을 사용할지 여부 → 존재!
 
 ```jsx
 console.log('hello world'); // X
 console.log('hello world') // O
 ```
 
-- [import/no-unresolved](https://github.com/benmosher/eslint-plugin-import/blob/master/docs/rules/no-unresolved.md) :  require.resolve동작에 정의 된대로 로컬 파일 시스템의 모듈로 해석 할 수 있도록 합니다.
-- [comma-dangle](https://eslint.org/docs/rules/comma-dangle#top) : 맨 뒤에 붙은 쉼표를 허용을 하지 않는다는 의미입니다.
+- [import/no-unresolved](https://github.com/benmosher/eslint-plugin-import/blob/master/docs/rules/no-unresolved.md) :  require.resolve동작에 정의 된대로 로컬 파일 시스템의 모듈로 해석 할 수 있도록 합니다. // 안함
+- [comma-dangle](https://eslint.org/docs/rules/comma-dangle#top) : 맨 뒤에 붙은 쉼표를 허용을 하지 않는다는 의미입니다. → 있는게 좋다.
 
 ```jsx
 var foo = {
@@ -109,15 +120,15 @@ var foo = {
 }; // O
 ```
 
-- [no-new](https://eslint.org/docs/rules/no-new) : new 키워드를 이용해 생성자를 호출했다면 변수에 담아야 한다는 의미이다.
+- [no-new](https://eslint.org/docs/rules/no-new) : new 키워드를 이용해 생성자를 호출했다면 변수에 담아야 한다는 의미이다. → 있어야 한다.
 
 ```jsx
 new Person(); // X
 const person = new Person();
 ```
 
-- indent: ['error', 2] : indent를 2로 설정한다는 것으며, 2가 아닌 경우 error를 발생시키라는 의미이다.
-- [import/extensions](https://github.com/benmosher/eslint-plugin-import#importextensions) : 확장자 명을 명시할 것인지에 대한 설정이다.
+- indent: ['error', 2] : indent를 2로 설정한다는 것으며, 2가 아닌 경우 error를 발생시키라는 의미이다. → 있어야 한다.
+- [import/extensions](https://github.com/benmosher/eslint-plugin-import#importextensions) : 확장자 명을 명시할 것인지에 대한 설정이다. → 붙어야 한다.
 
 ```jsx
 import App from 'app.js'// X
@@ -155,13 +166,18 @@ $ npm i -D eslint-config-prettier eslint-plugin-prettier // ESLint와 통합을 
 
 ```jsx
 tabWidth: 2,
-semi: false,
-singleQuote: true,
+semi: true,
+singleQuote: true, // eslint에서도 잡아놓을께요.
 endOfLine: 'lf',
-trailingComma: false,
+trailingComma: true,
 bracketSpacing: true,
-printWidth: 150,
+printWidth: 120,
 jsxBracketSameLine: false
+jsxSingleQuote: false
+quoteProps: as-needed
+arrowParens: always
+vueIndentScriptAndStyle: false
+
 ```
 
 - tabWidth : tab에 대한 공백 수
@@ -240,5 +256,16 @@ const object = {
 - htmlWhitespaceSensitivity : HTML 공백 감도 설정
     - css
     - strict
-    - ignore
+    - ignore :
 - vueIndentScriptAndStyle : <script>와 <style> 태그를 들여 쓸지 여부입니다.
+
+```jsx
+<script>
+import
+			
+</script>
+
+<script>
+	import
+</script>
+```
