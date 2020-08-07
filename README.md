@@ -25,7 +25,8 @@
 
 ## ⚒ Infra
 - [Github Action을 이용해 gradle build를 진행하자.](https://github.com/ksy90101/TIL/blob/master/infra/github-action-pr-gradle-build.md)
-
+  - [예제코드](https://github.com/ksy90101/TIL-ex/blob/master/.github/workflows/gradle.yml)
+  
 ## 💻 lecture
   
 - [\[인프런\] Vue.js 시작하기 - Age of Vue.js](https://github.com/ksy90101/age-of-vue-js)
