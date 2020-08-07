@@ -5,20 +5,23 @@
 - [Array.filter()](https://github.com/ksy90101/TIL/blob/master/javascript/ArrayFilter.md)
 - [Array.sort()](https://github.com/ksy90101/TIL/blob/master/javascript/ArraySort.md)
 - [원하는 날짜의 요일을 원하는 포맷으로 출력해보자.](https://github.com/ksy90101/TIL/blob/master/javascript/getWeek.md)
+- [ESLint와 Prettier를 알아보자(with vue, airbnb)](https://github.com/ksy90101/TIL/blob/master/javascript/eslint-prettier.md)
 
 ## Java
 
 - [Enum Field Method And Instance](https://github.com/ksy90101/TIL/blob/master/java/EnumField.md)
-  - [예제코드](https://github.com/ksy90101/ex-code/tree/master/enum-field-ex)
+  - [예제코드](https://github.com/ksy90101/Java-TIL-ex/tree/master/enum-field-ex)
 - [Lombok 사용법 1 (XXXArgsConstructor, Getter, Setter, ToString)](https://github.com/ksy90101/TIL/blob/master/java/lombok-1.md)
-  - [예제코드](https://github.com/ksy90101/lombok-ex)
+  - [예제코드](https://github.com/ksy90101/Java-TIL-ex/tree/master/blog-ex-lombok)
+- [lombok 사용법 - 2(@EqualsAndHashCode, @data, @NonNull, @Cleanup, Val, @Value, @builder,  @SneakyThrows, @Log, @Synchronized)](https://github.com/ksy90101/TIL/blob/master/java/lombok-2.md)
+  - [예제코드](https://github.com/ksy90101/Java-TIL-ex/tree/master/blog-ex-lombok)
 
 ## 🌷 Spring
 
 - [AOP](https://github.com/ksy90101/TIL/blob/master/spring/AOP.md)
-  - [예제코드](https://github.com/ksy90101/ex-code/tree/master/jojoldu-aop-ex)
+  - [예제코드](https://github.com/ksy90101/Java-TIL-ex/tree/master/jojoldu-aop-ex)
 - [Spring Data JPA Logging](https://github.com/ksy90101/TIL/blob/master/spring/spring-data-jpa-logging.md)
-  - [예제코드](https://github.com/ksy90101/jpa-lifecycle-properties-ex)
+  - [예제코드](https://github.com/ksy90101/Java-TIL-ex/tree/master/jpa-properties-ex)
   
 ## 💻 lecture
   
