@@ -1,10 +1,10 @@
-![nosql-vs-rdbms-1](https://github.com/ksy90101/TIL/blob/master/databse/image/nosql-vs-rdbms/nosql-vs-rdbms-1.png?raw=true)
+![nosql-vs-rdbms-1](https://github.com/ksy90101/TIL/blob/master/database/image/nosql-vs-rdbms/nosql-vs-rdbms-1.png?raw=true)
 
 ## Data Base
 
 - 여러 사람들이 공유하고 사용할 목적으로 통합 관리되는 데이터들의 모임
 
-![nosql-vs-rdbms-2](https://github.com/ksy90101/TIL/blob/master/databse/image/nosql-vs-rdbms/nosql-vs-rdbms-2.png?raw=true)
+![nosql-vs-rdbms-2](https://github.com/ksy90101/TIL/blob/master/database/image/nosql-vs-rdbms/nosql-vs-rdbms-2.png?raw=true)
 
 ## SQL(Structured Query Language)
 
@@ -12,7 +12,7 @@
 
 ## 수직적 vs 수평적 확장
 
-![nosql-vs-rdbms-3](https://github.com/ksy90101/TIL/blob/master/databse/image/nosql-vs-rdbms/nosql-vs-rdbms-3.png?raw=true)
+![nosql-vs-rdbms-3](https://github.com/ksy90101/TIL/blob/master/database/image/nosql-vs-rdbms/nosql-vs-rdbms-3.png?raw=true)
 
 ### 수직적(vertical) 확장(Scaling)
 
@@ -24,7 +24,7 @@
 
 ## RDBMS(Relational Database Management System)
 
-![nosql-vs-rdbms-4](https://github.com/ksy90101/TIL/blob/master/databse/image/nosql-vs-rdbms/nosql-vs-rdbms-4.png?raw=true)
+![nosql-vs-rdbms-4](https://github.com/ksy90101/TIL/blob/master/database/image/nosql-vs-rdbms/nosql-vs-rdbms-4.png?raw=true)
 
 - 관계형 데이터 베이스로 데이터를 구성하는데 필요한 방법 중 하나로 모든 데이터를 Ke와 Value의 관계를 2차원 테이블 형태로 표현 해준다.
 
@@ -48,40 +48,40 @@
 
 - 데이터들을 여러개의 테이블에 나눠서 데이터들의 중복을 피할 수 있다.
 
-![nosql-vs-rdbms-5](https://github.com/ksy90101/TIL/blob/master/databse/image/nosql-vs-rdbms/nosql-vs-rdbms-5.png?raw=true)
+![nosql-vs-rdbms-5](https://github.com/ksy90101/TIL/blob/master/database/image/nosql-vs-rdbms/nosql-vs-rdbms-5.png?raw=true)
 
 - 위의 사진 처럼 사용자가 구입한 상품들을 나타내기 위해 각각의 테이블을 만들었지만, 각 테이블은 다른 테이블에 저장되지 않은 데이터만 가지고 있으며, Join을 사용하여 원하는 데이터를 완성시킨다.
 - 이런 명확한 구조는 장점이 있는데, 하나의 테이블에서 중복없이 하나의 데이터만 관리하기 때문에 다른 테이블에서 부정확한 데이터를 다룰 위험이 없다.
 
 ### 종류
 
-![nosql-vs-rdbms-6](https://github.com/ksy90101/TIL/blob/master/databse/image/nosql-vs-rdbms/nosql-vs-rdbms-6.png?raw=true)
+![nosql-vs-rdbms-6](https://github.com/ksy90101/TIL/blob/master/database/image/nosql-vs-rdbms/nosql-vs-rdbms-6.png?raw=true)
 
 - Oracle
 
-    ![nosql-vs-rdbms-7](https://github.com/ksy90101/TIL/blob/master/databse/image/nosql-vs-rdbms/nosql-vs-rdbms-7.png?raw=true)
+    ![nosql-vs-rdbms-7](https://github.com/ksy90101/TIL/blob/master/database/image/nosql-vs-rdbms/nosql-vs-rdbms-7.png?raw=true)
 
 - MySQL
 
-    ![nosql-vs-rdbms-8](https://github.com/ksy90101/TIL/blob/master/databse/image/nosql-vs-rdbms/nosql-vs-rdbms-8.png?raw=true)
+    ![nosql-vs-rdbms-8](https://github.com/ksy90101/TIL/blob/master/database/image/nosql-vs-rdbms/nosql-vs-rdbms-8.png?raw=true)
 
 - Microsoft SQL Server
 
-    ![nosql-vs-rdbms-9](https://github.com/ksy90101/TIL/blob/master/databse/image/nosql-vs-rdbms/nosql-vs-rdbms-9.png?raw=true)
+    ![nosql-vs-rdbms-9](https://github.com/ksy90101/TIL/blob/master/database/image/nosql-vs-rdbms/nosql-vs-rdbms-9.png?raw=true)
     - Microsoft에서 개발한 것으로 윈도우에서만 사용이 가능
 - PostgreSQL
 
-    ![nosql-vs-rdbms-10](https://github.com/ksy90101/TIL/blob/master/databse/image/nosql-vs-rdbms/nosql-vs-rdbms-10.png?raw=true)
+    ![nosql-vs-rdbms-10](https://github.com/ksy90101/TIL/blob/master/database/image/nosql-vs-rdbms/nosql-vs-rdbms-10.png?raw=true)
 
 - MariaDB
 
-    ![nosql-vs-rdbms-11](https://github.com/ksy90101/TIL/blob/master/databse/image/nosql-vs-rdbms/nosql-vs-rdbms-11.png?raw=true)
+    ![nosql-vs-rdbms-11](https://github.com/ksy90101/TIL/blob/master/database/image/nosql-vs-rdbms/nosql-vs-rdbms-11.png?raw=true)
 
     - Google, WordPress, Wikipedia 등에서 사용하며, MySQL 개발자에 의해 만들어져서 비슷한 부분들이 많다.
 
 - SQLite
 
-    ![nosql-vs-rdbms-12](https://github.com/ksy90101/TIL/blob/master/databse/image/nosql-vs-rdbms/nosql-vs-rdbms-12.png?raw=true)
+    ![nosql-vs-rdbms-12](https://github.com/ksy90101/TIL/blob/master/database/image/nosql-vs-rdbms/nosql-vs-rdbms-12.png?raw=true)
 
     - 임베디드 시스템에 사용하는 RDBMS로 세탁기, 스마트폰, 자동차 등 사용이 많다.
 
@@ -92,7 +92,7 @@
 
 ## NoSQL(Not Only SQL 또는 Non relational Database)
 
-![nosql-vs-rdbms-13](https://github.com/ksy90101/TIL/blob/master/databse/image/nosql-vs-rdbms/nosql-vs-rdbms-13.png?raw=true)
+![nosql-vs-rdbms-13](https://github.com/ksy90101/TIL/blob/master/database/image/nosql-vs-rdbms/nosql-vs-rdbms-13.png?raw=true)
 
 - RDBMS의 복잡도와 용량 한계의 문제점을 해결하기 위해 나왔기 때문에 대용량의 데이터를 저장 할 수 있다.
 - 이때 Table을 Collection이라고 보며, Record는 Documents라고 봅니다.
@@ -107,12 +107,11 @@
 - Key / Value
     - 휘발성 / 영속성
 
-    ![nosql-vs-rdbms-14](https://github.com/ksy90101/TIL/blob/master/databse/image/nosql-vs-rdbms/nosql-vs-rdbms-14.png?raw=true)
-
+    ![nosql-vs-rdbms-14](https://github.com/ksy90101/TIL/blob/master/database/image/nosql-vs-rdbms/nosql-vs-rdbms-14.png?raw=true)
 - Document
     - 스키마 정의가 없다.
 
-    ![nosql-vs-rdbms-15](https://github.com/ksy90101/TIL/blob/master/databse/image/nosql-vs-rdbms/nosql-vs-rdbms-15.png?raw=true)
+    ![nosql-vs-rdbms-15](https://github.com/ksy90101/TIL/blob/master/database/image/nosql-vs-rdbms/nosql-vs-rdbms-15.png?raw=true)
 
 - Big Table(Column) 또는 Wide Columnar Store
     - 뛰어난 확장성, 검색에 유리
