@@ -1,7 +1,7 @@
 # TIL
 🗂 Today I Learning
 
-## JavaScirpt
+## Java Script
 - [Array.filter()](https://github.com/ksy90101/TIL/blob/master/javascript/ArrayFilter.md)
 - [Array.sort()](https://github.com/ksy90101/TIL/blob/master/javascript/ArraySort.md)
 - [원하는 날짜의 요일을 원하는 포맷으로 출력해보자.](https://github.com/ksy90101/TIL/blob/master/javascript/getWeek.md)
@@ -22,6 +22,10 @@
   - [예제코드](https://github.com/ksy90101/Java-TIL-ex/tree/master/jojoldu-aop-ex)
 - [Spring Data JPA Logging](https://github.com/ksy90101/TIL/blob/master/spring/spring-data-jpa-logging.md)
   - [예제코드](https://github.com/ksy90101/Java-TIL-ex/tree/master/jpa-properties-ex)
+
+## 📁 DataBase
+
+- [NoSQL vs RDBMS](https://github.com/ksy90101/TIL/blob/master/database/nosql-vs-rdbms.md)
 
 ## ⚒ Infra
 - [Github Action을 이용해 gradle build를 진행하자.](https://github.com/ksy90101/TIL/blob/master/infra/github-action-pr-gradle-build.md)
