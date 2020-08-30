@@ -1,6 +1,6 @@
 # Spring H2 Properties
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b39eea85-e345-4a5c-8116-02d97927c8d8/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b39eea85-e345-4a5c-8116-02d97927c8d8/Untitled.png)
+![h2-properties-1](https://github.com/ksy90101/TIL/blob/master/spring/img/h2-properties-1.png?raw=true)
 
 - 위의 사진과 같이 Spring에서 제공해주는 h2의 Properties는 4개입니다.
 - 각각의 Properties를 알아보도록 하겠습니다.
@@ -8,7 +8,7 @@
 
 ## spring.h2.console.enabled
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/00a007f7-7d04-4ce2-926f-6d574240310a/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/00a007f7-7d04-4ce2-926f-6d574240310a/Untitled.png)
+![h2-properties-2](https://github.com/ksy90101/TIL/blob/master/spring/img/h2-properties-2.png?raw=true)
 
 - 기본값 : false
 - 위의 사진과 같이 h2 Database의 접속하여 스키마들을 볼수 있는 console을 활성화 시키는 값이다.
@@ -21,7 +21,7 @@
 - 위의 console는 웹에서 나오는 것이다.
 - 따라서 그에 맞는 URI를 지정해줘야 하는데, 기본 값은 `/h2-console` 이다.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/84ce8c36-a441-466f-abbb-68b96cd2b9a3/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/84ce8c36-a441-466f-abbb-68b96cd2b9a3/Untitled.png)
+![h2-properties-3](https://github.com/ksy90101/TIL/blob/master/spring/img/h2-properties-3.png?raw=true)
 
 - 다른 경로로 사용하고 싶다면 값을 변경하면 된다.
 
@@ -29,7 +29,7 @@
 spring.h2.console.path=/h2-database
 ```
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a069ac6b-bc7b-49a9-9ba8-6b628cd86a64/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a069ac6b-bc7b-49a9-9ba8-6b628cd86a64/Untitled.png)
+![h2-properties-4](https://github.com/ksy90101/TIL/blob/master/spring/img/h2-properties-4.png?raw=true)
 
 ## spring.h2.console.settings.trace
 
