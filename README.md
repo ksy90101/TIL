@@ -26,6 +26,7 @@
   - [예제코드](https://github.com/ksy90101/Java-TIL-ex/tree/master/jojoldu-aop-ex)
 - [Spring Data JPA Logging](https://github.com/ksy90101/TIL/blob/master/spring/spring-data-jpa-logging.md)
   - [예제코드](https://github.com/ksy90101/Java-TIL-ex/tree/master/jpa-properties-ex)
+- [Spring H2 Database Properties](https://github.com/ksy90101/TIL/blob/master/spring/h2-properties.md)
 
 ### 📚 Book
 - [처음배우는 스프링 부트2](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=168752840)
