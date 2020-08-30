@@ -27,6 +27,18 @@
 - [Spring Data JPA Logging](https://github.com/ksy90101/TIL/blob/master/spring/spring-data-jpa-logging.md)
   - [예제코드](https://github.com/ksy90101/Java-TIL-ex/tree/master/jpa-properties-ex)
 
+### 📚 Book
+- [처음배우는 스프링 부트2](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=168752840)
+    - [예제코드]()
+    - [1장. 스프링 부트 입문하기](https://github.com/ksy90101/TIL/blob/master/spring/start-spring-boot2-1.md)
+    - [2장. 스프링 부트 환경설정](https://github.com/ksy90101/TIL/blob/master/spring/start-spring-boot2-2.md)
+    - [3장. 스프링 부트 테스트](https://github.com/ksy90101/TIL/blob/master/spring/start-spring-boot2-3.md)
+    - [4장. 스프링 부트 웹](https://github.com/ksy90101/TIL/blob/master/spring/start-spring-boot2-4.md)
+    - [5장. 스프링 부트 시큐리티 + OAuth2](https://github.com/ksy90101/TIL/blob/master/spring/start-spring-boot2-5.md)
+    - [6장. 스프링 부트 데이터 레스트](https://github.com/ksy90101/TIL/blob/master/spring/start-spring-boot2-6.md)
+    - [7장. 스프링 부트 배치](https://github.com/ksy90101/TIL/blob/master/spring/start-spring-boot2-7.md)
+    - [8장. 부록](https://github.com/ksy90101/TIL/blob/master/spring/start-spring-boot2-8.md)
+
 ## 📁 DataBase
 
 - [NoSQL vs RDBMS](https://github.com/ksy90101/TIL/blob/master/database/nosql-vs-rdbms.md)
