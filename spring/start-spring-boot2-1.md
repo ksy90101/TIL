@@ -34,7 +34,7 @@
     - Snakeyaml: yaml
 
 - Intelli J
-[start-spring-boot2-1-1](https://github.com/ksy90101/TIL/blob/master/spring/img/start-spring-boot2-1-1.png?raw=true)
+![start-spring-boot2-1-1](https://github.com/ksy90101/TIL/blob/master/spring/img/start-spring-boot2-1-1.png?raw=true)
 
 ## 1.2.2. 스타터에 명시된 버전은 어떻게 확인 할까?
 [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot/blob/master/spring-boot-project/spring-boot-dependencies/build.gradle)
