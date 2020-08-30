@@ -1,4 +1,4 @@
-# Spring H2 Properties
+# Spring H2 Database Properties
 
 ![h2-properties-1](https://github.com/ksy90101/TIL/blob/master/spring/img/h2-properties-1.png?raw=true)
 
