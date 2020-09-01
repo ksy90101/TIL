@@ -38,8 +38,6 @@ testImplementation('org.springframework.boot:spring-boot-starter-test') {
 - JUnit5를 지원하는데 굳이 JUnit3, 4의 모듈까지는 가지고 있을 필요가 없다고 보는 것이다.
 - 혹시라도 JUnit3, 4를 사용해서 테스트 코드를 작성할 것이면 exclude를 제거하면 된다.
 
-s
-
 ## 참고자료
 
 [JUnit 5 소개](https://javacan.tistory.com/entry/JUnit-5-Intro)
