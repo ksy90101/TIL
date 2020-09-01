@@ -1,5 +1,6 @@
 # 1장. 스프링부트 입문하기
 
+> [처음배우는 스프링 부트 2](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=168752840)
 > [예제코드](https://github.com/ksy90101/book-spring-boot-start)
 
 ## 1.1. 스프링 부트 소개
@@ -53,7 +54,3 @@
     - 내장 톰켓 기능
 - 단점
     - 특정 설정을 커스터마이징을 하고 싶다면 설정 내부 코드를 봐야함.
-    
-## 참고 자료
-- [처음 배우는 스프링부트2](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=168752840)
-
