@@ -120,7 +120,7 @@ public class Station {
 4. logging.level.org.hibernate.type.descriptor.sql=trace
     - SQL문 중 물음표로 표기된 부분(Bind Parameter)라고 하는데, 이걸 출력한다.
 
-    ```java
+    ```text
     Hibernate: 
         /* insert jpa.hands.on.part1.Station
             */ insert 
