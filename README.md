@@ -28,7 +28,7 @@
   - [예제코드](https://github.com/ksy90101/Java-TIL-ex/tree/master/jpa-properties-ex)
 - [Spring H2 Database Properties](https://github.com/ksy90101/TIL/blob/master/spring/h2-properties.md)
 - [@Value와 @ConfigurationProperties를 이용해 yaml 파일 매핑하기](https://github.com/ksy90101/TIL/blob/master/spring/value-configuration-properties-ymal-mapping.md)
-  - [예제코드](https://github.com/ksy90101/TIL-ex/tree/master/spring-ymal-properties-ex)
+  - [예제코드](https://github.com/ksy90101/TIL-ex/tree/master/spring-yaml-properties-ex)
 - [Spring Intiializr프로젝트가 spring-boot-starter-test 에서 junit-vintage-engine가 exclude되어 있는 이유](https://github.com/ksy90101/TIL/blob/master/spring/spring-boot-starter-test-exclude-vintage.md)
 
 ### 📚 Book
