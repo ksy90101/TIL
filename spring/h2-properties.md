@@ -35,7 +35,7 @@ spring.h2.console.path=/h2-database
 
 - 기본값 : fasle
 
-```java
+```text
 mimeType=text/html
 index.do
 process index.do
