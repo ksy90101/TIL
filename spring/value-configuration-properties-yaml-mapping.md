@@ -1,6 +1,6 @@
 # @Value와 @ConfigurationProperties를 이용해 yaml 파일 매핑하기
 
-> [예제코드](https://github.com/ksy90101/TIL-ex/tree/master/spring-ymal-properties-ex)
+> [예제코드](https://github.com/ksy90101/TIL-ex/tree/master/spring-yaml-properties-ex)
 
 ## 1. 환경 프로퍼티 파일 설정하기
 

@@ -1,5 +1,7 @@
 # Spring Rest Docs 정적 파일 만들기
 
+> [예제코드](https://github.com/ksy90101/TIL-ex/tree/master/spring-rest-docs-static-ex)
+
 ## Spring Rest Docs란?
 
 - RESTful 서비스를 문서화 할 수 있게 도와주는 도구입니다.
