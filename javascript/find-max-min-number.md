@@ -36,6 +36,7 @@ const maxNumber = Math.max.apply(null, arr); // 4
 
 ## 주의사항
 
+- 배열 내의 비교 불가능한 값이 있다면 NaN이 나온다. 
 - 대부분의 경우에는 Math 객체를 사용하면 되지만 큰 배열(~$10^7$) 정도 되면 `RangeError: Maximum call stack size exceeded` 가 나오니 주의하자.
 
 ## 참고자료
