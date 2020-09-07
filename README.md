@@ -11,6 +11,7 @@
 - [원하는 날짜의 요일을 원하는 포맷으로 출력해보자.](https://github.com/ksy90101/TIL/blob/master/javascript/getWeek.md)
 - [ESLint와 Prettier를 알아보자(with vue, airbnb)](https://github.com/ksy90101/TIL/blob/master/javascript/eslint-prettier.md)
 - [배열 내의 최대값 최소값 찾기(Math.min.apply(), Math.max.apply())](https://github.com/ksy90101/TIL/blob/master/javascript/find-max-min-number.md)
+- [배열 내 특정 값 삭제하기](https://github.com/ksy90101/TIL/blob/master/javascript/remove-array-value.md)
 
 ## ☕️ Java
 
@@ -33,6 +34,7 @@
 - [Spring Intiializr프로젝트가 spring-boot-starter-test 에서 junit-vintage-engine가 exclude되어 있는 이유](https://github.com/ksy90101/TIL/blob/master/spring/spring-boot-starter-test-exclude-vintage.md)
 - [Spring Rest Docs 정적 파일 만들기](https://github.com/ksy90101/TIL/blob/master/spring/spring-rest-docs-static-create.md)
     - [예제코드](https://github.com/ksy90101/TIL-ex/tree/master/spring-rest-docs-static-ex)
+- [SpringBootTest webEnvironment](https://github.com/ksy90101/TIL/blob/master/spring/spring-boot-test-web-environment.md)
 
 ### 📚 Book
 - [처음배우는 스프링 부트2](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=168752840)
