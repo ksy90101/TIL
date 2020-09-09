@@ -4,6 +4,7 @@
 ## 🌐 Web
 
 - [Cookie vs WebStorage](https://github.com/ksy90101/TIL/blob/master/web/cookie-vs-webstorage.md)
+- [Cookie vs Session](https://github.com/ksy90101/TIL/blob/master/web/cookie-vs-session.md)
 
 ## 💣 Java Script
 - [Array.filter()](https://github.com/ksy90101/TIL/blob/master/javascript/ArrayFilter.md)
