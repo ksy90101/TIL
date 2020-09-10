@@ -1,4 +1,4 @@
-# 4장. 스프링 부트 
+# 4장. 스프링 부트 웹
 
 > [처음배우는 스프링 부트 2](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=168752840)
 > 
