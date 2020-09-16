@@ -123,3 +123,20 @@ logging.file.max-history:
 ```
 
 - 위와 같은 key로 설정하면 본인이 설정한 값으로 설정이 가능하다.
+
+## 커스텀 logback에서 사용하는 방법
+
+- 파일과 콘솔 둘다 사용하고 싶다면 아래와 같이 include 해주면 된다.
+
+```xml
+<include resource="org/springframework/boot/logging/logback/base.xml" />
+```
+
+- 콘솔만 사용하고 싶다면 아래와 같이 include 해주면된다.
+- 이때 주의할 점은 아래와 같이 defaults.xml을 먼저 선언해준 다음에 console-appender.xml을 선언해줘야 한다는 것이다.
+- defaults.xml에 `CONSOLE_LOG_PATTERN` 이 값이 있다 보니 꼭 필요하다.
+
+```xml
+<include resource="org/springframework/boot/logging/logback/defaults.xml" />
+<include resource="org/springframework/boot/logging/logback/console-appender.xml" />
+```
