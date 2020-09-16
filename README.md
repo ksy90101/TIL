@@ -36,6 +36,7 @@
 - [Spring Rest Docs 정적 파일 만들기](https://github.com/ksy90101/TIL/blob/master/spring/spring-rest-docs-static-create.md)
     - [예제코드](https://github.com/ksy90101/TIL-ex/tree/master/spring-rest-docs-static-ex)
 - [SpringBootTest webEnvironment](https://github.com/ksy90101/TIL/blob/master/spring/spring-boot-test-web-environment.md)
+- [Spring Boot Base Logback](https://github.com/ksy90101/TIL/blob/master/spring/spring-boot-base-logback.md)
 
 ### 📚 Book
 - [처음배우는 스프링 부트2](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=168752840)
