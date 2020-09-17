@@ -124,7 +124,7 @@
 
 - Console은 기본 Spring 로그 전략을 사용했습니다. 아래 링크를 참고하시면 관련 내용을 확인할 수 있습니다.  수정을 하면서 문제였던 부분은 기본 로그 전략이 콘솔과 파일 둘다 존재했었습니다. 그리고 파일 전략을 사용하기위해 LOG_PATH를 선언해놨기 때문에 임시 폴더가 아닌 로컬로 실행할 때도 spring.log 파일명으로 로그가 생성되는걸 확인할 수 있었습니다. 아래 링크에 있는 방법으로 콘솔만 스프링 기본 로그 전략을 사용하도록 수정했습니다.
 
-[ksy90101/TIL](https://github.com/ksy90101/TIL/blob/master/spring/spring-boot-base-logback.md)
+- [Spring Boot Base Logback](https://github.com/ksy90101/TIL/blob/master/spring/spring-boot-base-logback.md)
 
 - 일단, 기본적으로 logback은 아래와 같이 한 파일에 profile에 맞춰서 수정을 하였다.
 
