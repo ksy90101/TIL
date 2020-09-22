@@ -20,8 +20,8 @@
   - [예제코드](https://github.com/ksy90101/Java-TIL-ex/tree/master/enum-field-ex)
 - [Lombok 사용법 1 (XXXArgsConstructor, Getter, Setter, ToString)](https://github.com/ksy90101/TIL/blob/master/java/lombok-1.md)
   - [예제코드](https://github.com/ksy90101/Java-TIL-ex/tree/master/blog-ex-lombok)
-- [lombok 사용법 - 2(@EqualsAndHashCode, @data, @NonNull, @Cleanup, Val, @Value, @builder,  @SneakyThrows, @Log, @Synchronized)](https://github.com/ksy90101/TIL/blob/master/java/lombok-2.md)
-  - [예제코드](https://github.com/ksy90101/Java-TIL-ex/tree/master/blog-ex-lombok)
+- [JaCoCo 설정하기](https://github.com/ksy90101/TIL/blob/master/java/jacoco-basic.md)
+  - [예제코드](https://github.com/ksy90101/Java-TIL-ex/tree/master/test-jacoco-ex)
 
 ## 🌷 Spring
 
