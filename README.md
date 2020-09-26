@@ -7,7 +7,7 @@
 - [Cookie vs Session](https://github.com/ksy90101/TIL/blob/master/web/cookie-vs-session.md)
 
 ## 🚔 Security
-- [OAuth2 종류들](https://github.com/ksy90101/TIL/blob/master/security/oauth2-kinds.md)
+- [OAuth2 종류들](https://github.com/ksy90101/TIL/blob/master/security/oauth2-authentication-kinds.md)
 
 ## 💣 Java Script
 - [Array.filter()](https://github.com/ksy90101/TIL/blob/master/javascript/ArrayFilter.md)
