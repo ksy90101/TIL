@@ -20,27 +20,21 @@
 ## ☕️ Java
 
 - [Enum Field Method And Instance](https://github.com/ksy90101/TIL/blob/master/java/EnumField.md)
-  - [예제코드](https://github.com/ksy90101/Java-TIL-ex/tree/master/enum-field-ex)
 - [Lombok 사용법 1 (XXXArgsConstructor, Getter, Setter, ToString)](https://github.com/ksy90101/TIL/blob/master/java/lombok-1.md)
-  - [예제코드](https://github.com/ksy90101/Java-TIL-ex/tree/master/blog-ex-lombok)
 - [JaCoCo 설정하기](https://github.com/ksy90101/TIL/blob/master/java/jacoco-basic.md)
-  - [예제코드](https://github.com/ksy90101/Java-TIL-ex/tree/master/test-jacoco-ex)
 
 ## 🌷 Spring
 
 - [AOP](https://github.com/ksy90101/TIL/blob/master/spring/AOP.md)
-  - [예제코드](https://github.com/ksy90101/Java-TIL-ex/tree/master/jojoldu-aop-ex)
 - [Spring Data JPA Logging](https://github.com/ksy90101/TIL/blob/master/spring/spring-data-jpa-logging.md)
-  - [예제코드](https://github.com/ksy90101/Java-TIL-ex/tree/master/jpa-properties-ex)
 - [Spring H2 Database Properties](https://github.com/ksy90101/TIL/blob/master/spring/h2-properties.md)
 - [@Value와 @ConfigurationProperties를 이용해 yaml 파일 매핑하기](https://github.com/ksy90101/TIL/blob/master/spring/value-configuration-properties-yaml-mapping.md)
-  - [예제코드](https://github.com/ksy90101/TIL-ex/tree/master/spring-yaml-properties-ex)
 - [Spring Intiializr프로젝트가 spring-boot-starter-test 에서 junit-vintage-engine가 exclude되어 있는 이유](https://github.com/ksy90101/TIL/blob/master/spring/spring-boot-starter-test-exclude-vintage.md)
 - [Spring Rest Docs 정적 파일 만들기](https://github.com/ksy90101/TIL/blob/master/spring/spring-rest-docs-static-create.md)
-    - [예제코드](https://github.com/ksy90101/TIL-ex/tree/master/spring-rest-docs-static-ex)
 - [SpringBootTest webEnvironment](https://github.com/ksy90101/TIL/blob/master/spring/spring-boot-test-web-environment.md)
 - [Spring Boot Base Logback](https://github.com/ksy90101/TIL/blob/master/spring/spring-boot-base-logback.md)
 - [Spring Logback profile 조합 전략](https://github.com/ksy90101/TIL/blob/master/spring/spring-logback-profile-combination.md)
+- [slack으로 로그를 알림받지.](https://github.com/ksy90101/TIL/blob/master/spring/logback-slack-appender.md)
 
 ### 📚 Book
 - [처음배우는 스프링 부트2](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=168752840)
@@ -61,7 +55,6 @@
 
 ## ⚒ Infra
 - [Github Action을 이용해 gradle build를 진행하자.](https://github.com/ksy90101/TIL/blob/master/infra/github-action-pr-gradle-build.md)
-  - [예제코드](https://github.com/ksy90101/TIL-ex/blob/master/.github/workflows/gradle.yml)
   
 ## 💻 lecture
   
