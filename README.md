@@ -7,9 +7,11 @@
 - [Cookie vs Session](https://github.com/ksy90101/TIL/blob/master/web/cookie-vs-session.md)
 
 ## 🚔 Security
+
 - [OAuth2 종류들](https://github.com/ksy90101/TIL/blob/master/security/oauth2-authentication-kinds.md)
 
 ## 💣 Java Script
+
 - [Array.filter()](https://github.com/ksy90101/TIL/blob/master/javascript/ArrayFilter.md)
 - [Array.sort()](https://github.com/ksy90101/TIL/blob/master/javascript/ArraySort.md)
 - [원하는 날짜의 요일을 원하는 포맷으로 출력해보자.](https://github.com/ksy90101/TIL/blob/master/javascript/getWeek.md)
@@ -34,7 +36,7 @@
 - [SpringBootTest webEnvironment](https://github.com/ksy90101/TIL/blob/master/spring/spring-boot-test-web-environment.md)
 - [Spring Boot Base Logback](https://github.com/ksy90101/TIL/blob/master/spring/spring-boot-base-logback.md)
 - [Spring Logback profile 조합 전략](https://github.com/ksy90101/TIL/blob/master/spring/spring-logback-profile-combination.md)
-- [slack으로 로그를 알림받지.](https://github.com/ksy90101/TIL/blob/master/spring/logback-slack-appender.md)
+- [Spring에서으로 Log를 Slack으로 받아보기](https://github.com/ksy90101/TIL/blob/master/spring/logback-slack-appender.md)
 
 ### 📚 Book
 - [처음배우는 스프링 부트2](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=168752840)
@@ -49,6 +51,8 @@
     - [8장. 부록](https://github.com/ksy90101/TIL/blob/master/spring/start-spring-boot2-8.md)
 - [함께 자라기](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=244299982)
     - [1장. 자라기](https://github.com/ksy90101/TIL/blob/master/book/growing-together-1.md)
+    - [1장. 자라기](https://github.com/ksy90101/TIL/blob/master/book/growing-together-2.md)
+    - [1장. 자라기](https://github.com/ksy90101/TIL/blob/master/book/growing-together-3.md)
     
 ## 📁 DataBase
 - [NoSQL vs RDBMS](https://github.com/ksy90101/TIL/blob/master/database/nosql-vs-rdbms.md)
