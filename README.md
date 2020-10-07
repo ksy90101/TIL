@@ -59,7 +59,8 @@
 
 ## ⚒ Infra
 - [Github Action을 이용해 gradle build를 진행하자.](https://github.com/ksy90101/TIL/blob/master/infra/github-action-pr-gradle-build.md)
-  
+- [정적분석도구 소나큐브 적용기](https://github.com/ksy90101/TIL/blob/master/infra/sonarqube-apply-java.md)
+
 ## 💻 lecture
   
 - [\[인프런\] Vue.js 시작하기 - Age of Vue.js](https://github.com/ksy90101/age-of-vue-js)
