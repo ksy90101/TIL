@@ -5,6 +5,7 @@
 
 - [Cookie vs WebStorage](https://github.com/ksy90101/TIL/blob/master/web/cookie-vs-webstorage.md)
 - [Cookie vs Session](https://github.com/ksy90101/TIL/blob/master/web/cookie-vs-session.md)
+- [https란?](https://github.com/ksy90101/TIL/blob/master/web/https.md)
 
 ## 🚔 Security
 
