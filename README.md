@@ -60,6 +60,7 @@
 ## ⚒ Infra
 - [Github Action을 이용해 gradle build를 진행하자.](https://github.com/ksy90101/TIL/blob/master/infra/github-action-pr-gradle-build.md)
 - [정적분석도구 소나큐브 적용기](https://github.com/ksy90101/TIL/blob/master/infra/sonarqube-apply-java.md)
+- [Blue/Green 무중단 배포(spring boot + nginx)](https://github.com/ksy90101/TIL/blob/master/infra/blue-green-deployment.md)
 
 ## 💻 lecture
   
