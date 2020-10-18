@@ -7,6 +7,7 @@
 - [Cookie vs Session](https://github.com/ksy90101/TIL/blob/master/web/cookie-vs-session.md)
 - [https란?](https://github.com/ksy90101/TIL/blob/master/web/https.md)
 - [Http Method](https://github.com/ksy90101/TIL/blob/master/web/http-method.md)
+- [Http Status](https://github.com/ksy90101/TIL/blob/master/web/http-status.md)
 
 ## 🚔 Security
 
