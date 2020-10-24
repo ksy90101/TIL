@@ -16,16 +16,16 @@
 - 웹 서버에서 장기 액세스 토큰(long-lived access token)을 사용하여 사용자 인증을 처리합니다.
     - 장기 액세스 토큰
 
-![oauth2-kinds-1](https://github.com/ksy90101/TIL/blob/master/security/image/oauth2-kinds-1.png?raw=true)
+![oauth2-kinds-1](https://github.com/ksy90101/TIL/blob/master/web/image/oauth2-kinds-1.png?raw=true)
 
     - 위의 사진은 Facebook에서 제공하는 장기 실행 액세스 토큰 플로우 입니다.
     - 말 그대로 장기적으로 인증을 할수 있는 토큰을 가지고 있으며, 이걸 이용해 토큰이 만료되어 다시 로그인을 해야 합니다.
 
 ### Flow
 
-![oauth2-kinds-2](https://github.com/ksy90101/TIL/blob/master/security/image/oauth2-kinds-2.png?raw=true)
+![oauth2-kinds-2](https://github.com/ksy90101/TIL/blob/master/web/image/oauth2-kinds-2.png?raw=true)
 
-![oauth2-kinds-3](https://github.com/ksy90101/TIL/blob/master/security/image/oauth2-kinds-3.png?raw=true)
+![oauth2-kinds-3](https://github.com/ksy90101/TIL/blob/master/web/image/oauth2-kinds-3.png?raw=true)
 
 - 리소스 주인은 인증이 필요한 상요자.
 - 클라이언트는 웹사이트
@@ -48,9 +48,9 @@
 
 ### Flow
 
-![oauth2-kinds-4](https://github.com/ksy90101/TIL/blob/master/security/image/oauth2-kinds-4.png?raw=true)
+![oauth2-kinds-4](https://github.com/ksy90101/TIL/blob/master/web/image/oauth2-kinds-4.png?raw=true)
 
-![oauth2-kinds-5](https://github.com/ksy90101/TIL/blob/master/security/image/oauth2-kinds-5.png?raw=true)
+![oauth2-kinds-5](https://github.com/ksy90101/TIL/blob/master/web/image/oauth2-kinds-5.png?raw=true)
 
 - 각 역할을 위의 Authorization Code Grant Type와 똑같다.
 
@@ -66,9 +66,9 @@
 
 ### Flow
 
-![oauth2-kinds-6](https://github.com/ksy90101/TIL/blob/master/security/image/oauth2-kinds-6.png?raw=true)
+![oauth2-kinds-6](https://github.com/ksy90101/TIL/blob/master/web/image/oauth2-kinds-6.png?raw=true)
 
-![oauth2-kinds-7](https://github.com/ksy90101/TIL/blob/master/security/image/oauth2-kinds-7.png?raw=true)
+![oauth2-kinds-7](https://github.com/ksy90101/TIL/blob/master/web/image/oauth2-kinds-7.png?raw=true)
 
 - Id, Password를 이용해 자격 증명을 클라이언트에게 인증 요청을 한다.
 - 인증 요청 정보 기반으로 권한 서버에 엑세스 토큰 정보를 요청해 응답 받습니다. 이때 Refresh Token 정보도 받을 수도 있습니다.
@@ -83,9 +83,9 @@
 
 ### Flow
 
-![oauth2-kinds-8](https://github.com/ksy90101/TIL/blob/master/security/image/oauth2-kinds-8.png?raw=true)
+![oauth2-kinds-8](https://github.com/ksy90101/TIL/blob/master/web/image/oauth2-kinds-8.png?raw=true)
 
-![oauth2-kinds-9](https://github.com/ksy90101/TIL/blob/master/security/image/oauth2-kinds-9.png?raw=true)
+![oauth2-kinds-9](https://github.com/ksy90101/TIL/blob/master/web/image/oauth2-kinds-9.png?raw=true)
 
 1. 엑세스 토큰 정보를 요청해 응답을 받습니다. 이때 별다른 인증 절차가 없기 때문에 Refresh Token까지 넘기지 않는걸 추천합니다.
 2. 엑세스 토큰으로 리소스 서버와 통신합니다.

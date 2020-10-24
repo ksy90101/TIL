@@ -8,10 +8,8 @@
 - [https란?](https://github.com/ksy90101/TIL/blob/master/web/https.md)
 - [Http Method](https://github.com/ksy90101/TIL/blob/master/web/http-method.md)
 - [Http Status](https://github.com/ksy90101/TIL/blob/master/web/http-status.md)
-
-## 🚔 Security
-
-- [OAuth2 종류들](https://github.com/ksy90101/TIL/blob/master/security/oauth2-authentication-kinds.md)
+- [OAuth2 종류들](https://github.com/ksy90101/TIL/blob/master/web/oauth2-authentication-kinds.md)
+- [인증(Authentication) vs 인가(Authorization)](https://github.com/ksy90101/TIL/blob/master/web/authentication-vs-authorization.md)
 
 ## 💣 Java Script
 
