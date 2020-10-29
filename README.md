@@ -57,6 +57,7 @@
     
 ## 📁 DataBase
 - [NoSQL vs RDBMS](https://github.com/ksy90101/TIL/blob/master/database/nosql-vs-rdbms.md)
+- [개념 모델 vs 논리모델 vs 물리모델](https://github.com/ksy90101/TIL/blob/master/database/db_modelings.md)
 
 ## ⚒ Infra
 - [Github Action을 이용해 gradle build를 진행하자.](https://github.com/ksy90101/TIL/blob/master/infra/github-action-pr-gradle-build.md)
