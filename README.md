@@ -10,6 +10,7 @@
 - [Http Status](https://github.com/ksy90101/TIL/blob/master/web/http-status.md)
 - [OAuth2 종류들](https://github.com/ksy90101/TIL/blob/master/web/oauth2-authentication-kinds.md)
 - [인증(Authentication) vs 인가(Authorization)](https://github.com/ksy90101/TIL/blob/master/web/authentication-vs-authorization.md)
+- [CORS에 대해 알아보자.](https://github.com/ksy90101/TIL/blob/master/web/cors.md)
 
 ## 💣 Java Script
 
