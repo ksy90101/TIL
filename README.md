@@ -11,6 +11,7 @@
 - [OAuth2 종류들](https://github.com/ksy90101/TIL/blob/master/web/oauth2-authentication-kinds.md)
 - [인증(Authentication) vs 인가(Authorization)](https://github.com/ksy90101/TIL/blob/master/web/authentication-vs-authorization.md)
 - [CORS에 대해 알아보자.](https://github.com/ksy90101/TIL/blob/master/web/cors.md)
+- [RESTful 6가지 제약조건](https://github.com/ksy90101/TIL/blob/master/web/RESTful-six-architectural-constraints.md)
 
 ## 💣 Java Script
 
