@@ -22,6 +22,7 @@
 - [배열 내의 최대값 최소값 찾기(Math.min.apply(), Math.max.apply())](https://github.com/ksy90101/TIL/blob/master/javascript/find-max-min-number.md)
 - [배열 내 특정 값 삭제하기](https://github.com/ksy90101/TIL/blob/master/javascript/remove-array-value.md)
 - [간단하게 진수를 변환하기](https://github.com/ksy90101/TIL/blob/master/javascript/transforming-redix.md)
+- [Array.every() % Array.some()](https://github.com/ksy90101/TIL/blob/master/javascript/array-every-and-some.md)
 
 ## ☕️ Java
 
