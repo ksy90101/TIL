@@ -51,7 +51,7 @@
 
 - 사칙연산을 계산하는 메서드가 있다고 해봅시다.
 
-```jsx
+```java
 public class Calculator {
 
     public int calculate(final String operator, final int operand1, final int operand2) {
@@ -74,7 +74,7 @@ public class Calculator {
 - 이미 위에서 if-esle문에 대한 단점들은 많이 이야기 했기 때문에 위 내용을 참고하면 될거 같습니다.
 - 그렇다면 실제 OCP를 지키면서 전략패턴를 구현하는 방법은 어떻게 될까요?
 
-```jsx
+```java
 import java.util.Arrays;
 
 public enum Operator {
@@ -134,21 +134,23 @@ public enum Operator {
 
 - 자동차 경주 게임을 실행하는데 자동차가 움직이는 조건이 4보다 큰 수가 나오면 전진을 하고 작은 수가 나온다면 멈춰있다고 했을때 숫자를 뽑는 것을 랜덤으로 한다고 생각해봅시다.
 
-```jsx
-public int moveNumber() {
+```java
+public class Car {
+    public int moveNumber() {
         return (int)(Math.random() * 10);
-	}
+    }
+}
 ```
 
 - 위와 같은 코드는 해당 메서드를 테스트 하기가 굉장히 어렵습니다. 또한 자동차 경주 게임에서 전진하는 값을 제어하는 것이 가장 중요하게 되고 실제 전진하는지 후진하는지 자체도 테스트를 할 수가 없다는 단점이 있습니다.
 
-```jsx
+```java
 public interface MovingNumber {
     int moveNumber();
 }
 ```
 
-```jsx
+```java
 public class Car {
     private final MovingNumber movingNumber;
 
@@ -158,7 +160,7 @@ public class Car {
 }
 ```
 
-```jsx
+```java
 public class Game {
     public static void main(final String[] args) {
         final Car car = new Car(() -> (int)Math.random() * 10);
@@ -168,7 +170,7 @@ public class Game {
 
 - 위와 같이 interface로 추출해 메서드를 만들어 실제 구현체에서 람다로 구현하는 방식으로 한다면 실제 테스트 코드에서 아래와 같이 작성한다면 값을 제어할 수 있는걸 볼수 있습니다.
 
-```jsx
+```java
 import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
