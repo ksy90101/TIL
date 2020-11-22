@@ -28,6 +28,7 @@
 
 - [Enum Field Method And Instance](https://github.com/ksy90101/TIL/blob/master/java/EnumField.md)
 - [Lombok 사용법 1 (XXXArgsConstructor, Getter, Setter, ToString)](https://github.com/ksy90101/TIL/blob/master/java/lombok-1.md)
+- [lombok 사용법 - 2(@EqualsAndHashCode, @data, @NonNull, @Cleanup, Val, @Value, @builder, @SneakyThrows, @Log, @Synchronized)](https://github.com/ksy90101/TIL/blob/master/java/lombok-2.md)
 - [JaCoCo 설정하기](https://github.com/ksy90101/TIL/blob/master/java/jacoco-basic.md)
 - [OCP와 전략패턴](https://github.com/ksy90101/TIL/blob/master/java/ocp-and-strategy-pattern.md)
 - [DTO vs VO](https://github.com/ksy90101/TIL/blob/master/java/dto-vs-vo.md)
