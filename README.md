@@ -45,6 +45,7 @@
 - [Spring Boot Base Logback](https://github.com/ksy90101/TIL/blob/master/spring/spring-boot-base-logback.md)
 - [Spring Logback profile 조합 전략](https://github.com/ksy90101/TIL/blob/master/spring/spring-logback-profile-combination.md)
 - [Spring에서으로 Log를 Slack으로 받아보기](https://github.com/ksy90101/TIL/blob/master/spring/logback-slack-appender.md)
+- [MVC Pattern](https://github.com/ksy90101/TIL/blob/master/spring/mvc-pattern.md)
 
 ### 📚 Book
 - [처음배우는 스프링 부트2](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=168752840)
