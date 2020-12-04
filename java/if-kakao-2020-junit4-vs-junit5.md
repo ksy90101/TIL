@@ -15,7 +15,8 @@
 
 - IDE, Build Tool의 강한 결합
 - @RunWith의 부족한 확장성
-    - Junit4에서는 한개만 사용이 가능했음.
+    - Junit4에서는 한개만 사용이 가능했음. [[참고링크]](http://junit.sourceforge.net/javadoc/org/junit/runner/RunWith.html)
+    - JUnit5에서는 @ExtendWith으로 Extension 클래스를 여러개 지정할 수 있다. [[참고링크]](https://junit.org/junit5/docs/5.3.0/api/org/junit/jupiter/api/extension/ExtendWith.html)   
     - 조합하려면 @Rule을 활용해야 했다.
 
     ```java
@@ -196,6 +197,7 @@ public class CalculatorTest {
 
 ### @ParameterizedTest
 
+- @ParameterizedTest는 Jupiter-Params org.junit.jupiter:junit-jupiter-params 의존성을 필요로 합니다.
 - 여러 개의 테스트 데이터를 매개변수 형태로 쉽고 간편하게 사용이 가능합니다.
 - 최소 하나의 Source Annotion이 필요합니다.
 - Null, Empty, Value, Csv, Enum, Method 등 다양한 형태의 Soruce가 존재합니다.
