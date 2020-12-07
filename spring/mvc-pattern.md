@@ -32,15 +32,19 @@
 ### Model
 
 - 비즈니스 로직을 가지고 있는 객체입니다.
+- 도메인 객체나 DTO, Entity 같은 객체로 Database와 강하게 연관되어 있습니다.
+- POJO
 
 ### View
 
 - 사용자에게 보여줄 화면입니다.
+- HTML, JSP, JSON, XML, THYMELEAF...
 
 ### Controller
 
 - 모델 객체로의 데이터 흐름을 제어합니다.
 - 뷰와 모델의 역할을 분리를 하는 역할을 합니다.
+- 예를들면 입력 값을 검증하거나 모델 객체를 변경하거나 변경된 모델 객체를 뷰에 전달하는 역할
 
 ## Why MVC?
 
@@ -49,6 +53,12 @@
 ### 장점
 
 - 각 컴포넌트의 코드 결합도를 낮춥니다.
+    - 백엔드 개발자와 프론트엔드 개발자가 독립적으로 개발을 진행할 수 있습니다.
+- 높은 응집도를 가지고 있습니다.
+    - 논리적으로 관련이 있는 기능을 하나의 컨트롤러로 묶거나 특정 모델과 관련 있는 뷰를 그릅화 할 수 있습니다.
+- 낮은 의존도를 가지고 있습니다.
+    - 각자의 역햘을 가지고 있습니다.
+    - 역할및 책임이 구분되어 있어 코드 수정이 편안하기 떄문에 개발이 용이합니다.
 - 코드의 재사용성이 올라갑니다.
 - 구현자들 간의 커뮤니케이션 효율성을 높일 수 있습니다.
 
@@ -63,21 +73,51 @@
 - Controller 내에는 비즈니스 로직을 최대한 배제하고 Model View 사이의 연결 역할만 하도록 구현한다.
 - Controller에서 중복이 발생하면 별도의 객체로 분리하거나 별도의 메서드로 분리한다.
 
-## Service
+## 5 Layer
+
+![mvc-pattern-3](https://github.com/ksy90101/TIL/blob/master/spring/img/mvc-pattern-3.png?raw=ture)
+
+### Presentation Layer
+
+- 사용자에게 보여주는 화면입니다.
+- User Interface
+- 식당으로 예를 들자면 메뉴판이나 주문을 통해 나온 음식이라고 생각하면 될거 같습니다.
+
+### Control Layer
+
+- Presentation Layer와 Business Login Layer를 연결해주는 역할을 가지고 있습니다.
+- 식당으로 예를 들면 종업원이라고 생각하면 될거 같습니다. 손님이 메뉴판을 보고 메뉴를 주문하면 주방장에게 전달해주는 역할입니다.
+
+### Business Logic Layer
 
 - 비즈니스 로직을 수행하는 메서드를 가지고 있는 객체입니다.
 - 비즈니스 로직을 별도의 Service 객체에서 구현하도록 하고 Controller는 Service 객체를 사용하도록 합니다.
 - Service는 Transcation을 가지게 됩니다.
+- Contoller - Persistance 계층간의 연결을 진행합니다.;
+- 식당으로 말하자면 주방이라고 할수 있겠습니다.
 
-## Repository(DAO, Data Access Object)
+### Persistance Layer
 
 - 데이터를 접근하는 기능을 별도의 Repository나 DAO 객체에서 구현합니다.
+- 데이터를 처리하는 부분입니다.(CRUD)
 - Service는 Repository 객체를 사용합니다.
 - DAO vs Repository
 
 [DAO vs Repository Patterns | Baeldung](https://www.baeldung.com/java-dao-vs-repository)
 
 [What is the difference between DAO and Repository patterns?](https://stackoverflow.com/questions/8550124/what-is-the-difference-between-dao-and-repository-patterns)
+
+### Domain Model Layer
+
+- 데이터와 행위를 갖는 객체로 핵심 비즈니스 로직이 있으며 주요 검증을 진행합니다.
+- Persistence Layer에 맵핑을 합니다
+- 식당으로 예를 들자면 요리를 만드는 재료라고 생각하면 좋을거 같습니다. 또한 그 재료를 모은 음식이 될수도 있겠습니다.
+
+## Spring에서의 MVC 흐름
+
+- DispatcherServelt이 Controller에게 Maaping 해주고
+- Controller안에 있는 작은 Servelet들이 데이터 조작후 View를 준비하고
+- View가 Rendering 해줍니다.
 
 ## 참고자료
 
