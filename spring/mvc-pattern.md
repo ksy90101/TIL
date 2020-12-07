@@ -122,3 +122,5 @@
 ## 참고자료
 
 [[10분 테코톡] 👩🏻‍💻👨🏻‍💻해리&션의 MVC 패턴](https://www.youtube.com/watch?v=uoVNJkyXX0I&t=229s)
+[[10분 테코톡] 🙋‍♂️제이엠의 MVC](https://www.youtube.com/watch?v=nMolWzTT-dU)
+[[10분 테코톡] 🐝범블비의 MVC Pattern](https://www.youtube.com/watch?v=es1ckjHOzTI)
