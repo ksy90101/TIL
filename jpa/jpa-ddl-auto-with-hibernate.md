@@ -259,6 +259,10 @@ Caused by: org.hibernate.tool.schema.spi.SchemaManagementException: Schema-valid
 
 - JPA는 편리한 기능을 제공해주지만, 실제 운영서버에서 사용한다면 위험이 있을 수 있습니다.
 - 실제 DB는 DBA가 있다면 DBA에게 맡기는 것이 최고의 선택이라고 생각합니다.
+- 운영 장비에서는 절대로 create, create-drop, update를 사용하면 안됩니다.
+- 개발 초기 단계에서는 create 또는 update
+- 테스트 서버는 update 또는 validate
+- 스테이징과 운영 서버는 validate 또는 none
 
 ## 참고자료
 
