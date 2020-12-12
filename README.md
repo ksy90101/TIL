@@ -36,7 +36,6 @@
 ## 🌷 Spring
 
 - [AOP](https://github.com/ksy90101/TIL/blob/master/spring/AOP.md)
-- [Spring Data JPA Logging](https://github.com/ksy90101/TIL/blob/master/spring/spring-data-jpa-logging.md)
 - [Spring H2 Database Properties](https://github.com/ksy90101/TIL/blob/master/spring/h2-properties.md)
 - [@Value와 @ConfigurationProperties를 이용해 yaml 파일 매핑하기](https://github.com/ksy90101/TIL/blob/master/spring/value-configuration-properties-yaml-mapping.md)
 - [Spring Intiializr프로젝트가 spring-boot-starter-test 에서 junit-vintage-engine가 exclude되어 있는 이유](https://github.com/ksy90101/TIL/blob/master/spring/spring-boot-starter-test-exclude-vintage.md)
@@ -46,9 +45,13 @@
 - [Spring Logback profile 조합 전략](https://github.com/ksy90101/TIL/blob/master/spring/spring-logback-profile-combination.md)
 - [Spring에서으로 Log를 Slack으로 받아보기](https://github.com/ksy90101/TIL/blob/master/spring/logback-slack-appender.md)
 - [MVC Pattern](https://github.com/ksy90101/TIL/blob/master/spring/mvc-pattern.md)
-- [javax.persistence.Entity Vs org.hibernate.annotations.Entity](https://github.com/ksy90101/TIL/blob/master/spring/jpa-entity-vs-hibernate-entity.md)
 
-### 📚 Book
+## 📜 JPA
+- [Spring Data JPA Logging](https://github.com/ksy90101/TIL/blob/master/jpa/spring-data-jpa-logging.md)
+- [javax.persistence.Entity Vs org.hibernate.annotations.Entity](https://github.com/ksy90101/TIL/blob/master/jpa/jpa-entity-vs-hibernate-entity.md)
+- [JPA DDL Auto With Hibernate](https://github.com/ksy90101/TIL/blob/master/jpa/jpa-ddl-auto-with-hibernate.md)
+
+## 📚 Book
 - [처음배우는 스프링 부트2](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=168752840)
     - [예제코드](https://github.com/ksy90101/book-spring-boot-start)
     - [1장. 스프링 부트 입문하기](https://github.com/ksy90101/TIL/blob/master/spring/start-spring-boot2-1.md)
