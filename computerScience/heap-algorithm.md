@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # 힙(heap)알고리즘 이란?
+=======
+# 힙(heap)이란?
+>>>>>>> b6637d9bb3e19932768c451e50327fdebf9f9d45
 
 ## 서론
 
@@ -89,7 +93,14 @@ public class MaxHeap {
     }
 
     private boolean isLeaf(final int position) {
+<<<<<<< HEAD
         return position >= size / 2 && position <= size;
+=======
+        if (position >= size / 2 && position <= size) {
+            return true;
+        }
+        return false;
+>>>>>>> b6637d9bb3e19932768c451e50327fdebf9f9d45
     }
 
     private void swap(final int firstPosition, final int secondPosition) {
