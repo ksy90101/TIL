@@ -1,6 +1,10 @@
 # TIL
 🗂 Today I Learning
 
+## 🧷 ComputerScience
+- [Stack vs Queue](https://github.com/ksy90101/TIL/blob/master/computerScience/stack-vs-queue.md)
+- [힙(heap) 알고리즘 이란?](https://github.com/ksy90101/TIL/blob/master/computerScience/heap-algorithm.md)
+
 ## 🌐 Web
 
 - [Cookie vs WebStorage](https://github.com/ksy90101/TIL/blob/master/web/cookie-vs-webstorage.md)
