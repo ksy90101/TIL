@@ -8,17 +8,17 @@
 
 **피보나치 수 F(n)**는 다음과 같은 초기값 및 점화식 으로 정의되는 수열이다.
 
-[https://wikimedia.org/api/rest_v1/media/math/render/svg/da58e6f2110984c6b6f3179d983877eb1d519ddb](https://wikimedia.org/api/rest_v1/media/math/render/svg/da58e6f2110984c6b6f3179d983877eb1d519ddb)
+![https://wikimedia.org/api/rest_v1/media/math/render/svg/da58e6f2110984c6b6f3179d983877eb1d519ddb](https://wikimedia.org/api/rest_v1/media/math/render/svg/da58e6f2110984c6b6f3179d983877eb1d519ddb)
 
-[https://wikimedia.org/api/rest_v1/media/math/render/svg/d0b55872876caf28e23575e773d21d3a9276ece6](https://wikimedia.org/api/rest_v1/media/math/render/svg/d0b55872876caf28e23575e773d21d3a9276ece6)
+![https://wikimedia.org/api/rest_v1/media/math/render/svg/d0b55872876caf28e23575e773d21d3a9276ece6](https://wikimedia.org/api/rest_v1/media/math/render/svg/d0b55872876caf28e23575e773d21d3a9276ece6)
 
 0번째 항부터 시작할 경우 다음과 같이 정의된다.
 
-[https://wikimedia.org/api/rest_v1/media/math/render/svg/58ebe8b2d5551fb272cd4258940fe1e492592d02](https://wikimedia.org/api/rest_v1/media/math/render/svg/58ebe8b2d5551fb272cd4258940fe1e492592d02)
+![https://wikimedia.org/api/rest_v1/media/math/render/svg/58ebe8b2d5551fb272cd4258940fe1e492592d02](https://wikimedia.org/api/rest_v1/media/math/render/svg/58ebe8b2d5551fb272cd4258940fe1e492592d02)
 
-[https://wikimedia.org/api/rest_v1/media/math/render/svg/c374ba08c140de90c6cbb4c9b9fcd26e3f99ef56](https://wikimedia.org/api/rest_v1/media/math/render/svg/c374ba08c140de90c6cbb4c9b9fcd26e3f99ef56)
+![https://wikimedia.org/api/rest_v1/media/math/render/svg/c374ba08c140de90c6cbb4c9b9fcd26e3f99ef56](https://wikimedia.org/api/rest_v1/media/math/render/svg/c374ba08c140de90c6cbb4c9b9fcd26e3f99ef56)
 
-[https://wikimedia.org/api/rest_v1/media/math/render/svg/a176d38fc02d945d2966c5a4b8d84e295291ed63](https://wikimedia.org/api/rest_v1/media/math/render/svg/a176d38fc02d945d2966c5a4b8d84e295291ed63)
+![https://wikimedia.org/api/rest_v1/media/math/render/svg/a176d38fc02d945d2966c5a4b8d84e295291ed63](https://wikimedia.org/api/rest_v1/media/math/render/svg/a176d38fc02d945d2966c5a4b8d84e295291ed63)
 
 - 즉 아래와 같이 정의할 수 있다.
 - fibo(n) = n == 0 || n == 1 ? n : fibo(n-1) + fibo(n-2)

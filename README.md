@@ -4,6 +4,7 @@
 ## 🧷 ComputerScience
 - [Stack vs Queue](https://github.com/ksy90101/TIL/blob/master/computerScience/stack-vs-queue.md)
 - [힙(heap) 알고리즘 이란?](https://github.com/ksy90101/TIL/blob/master/computerScience/heap-algorithm.md)
+- [피보나치 수 알고리즘](https://github.com/ksy90101/TIL/blob/master/computerScience/fibonacci-number-algorithm.md)
 
 ## 🌐 Web
 
