@@ -55,6 +55,7 @@
 - [Spring Data JPA Logging](https://github.com/ksy90101/TIL/blob/master/jpa/spring-data-jpa-logging.md)
 - [javax.persistence.Entity Vs org.hibernate.annotations.Entity](https://github.com/ksy90101/TIL/blob/master/jpa/jpa-entity-vs-hibernate-entity.md)
 - [JPA DDL Auto With Hibernate](https://github.com/ksy90101/TIL/blob/master/jpa/jpa-ddl-auto-with-hibernate.md)
+- [JPA 페치(Fetch) 전략 - 즉시 로딩(EAGER)과 지연 로딩(LAZY)](https://github.com/ksy90101/TIL/blob/master/jpa/jpa-fetch-type.md)
 
 ## 📚 Book
 - [처음배우는 스프링 부트2](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=168752840)
