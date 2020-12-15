@@ -1,6 +1,6 @@
 # 엔티티 생명주기(Entity LifeCycle)
 
-![jpa-entity-life-cycle-1](https://github.com/ksy90101/TIL/blob/master/jpa/imgge/jpa-entity-life-cycle-1.png)
+![jpa-entity-life-cycle-1](https://github.com/ksy90101/TIL/blob/master/jpa/image/jpa-entity-life-cycle-1.png?raw=true)
 
 ```java
 @DisplayName("엔티티 생명주기 테스트")
@@ -82,7 +82,7 @@ Hibernate:
 - 영속성 컨텍스트와 전혀 관계가 없는 상태
 - 객체를 생성만 한 상태
 
-![jpa-entity-life-cycle-2](https://github.com/ksy90101/TIL/blob/master/jpa/imgge/jpa-entity-life-cycle-2.png)
+![jpa-entity-life-cycle-2](https://github.com/ksy90101/TIL/blob/master/jpa/image/jpa-entity-life-cycle-2.png?raw=true)
 
 ```java
 Member member = new Member(1L, team, "MEMBER A");
@@ -90,7 +90,7 @@ Member member = new Member(1L, team, "MEMBER A");
 
 ### 영속(managed)
 
-![jpa-entity-life-cycle-3](https://github.com/ksy90101/TIL/blob/master/jpa/imgge/jpa-entity-life-cycle-3.png)
+![jpa-entity-life-cycle-3](https://github.com/ksy90101/TIL/blob/master/jpa/image/jpa-entity-life-cycle-3.png?raw=true)
 
 - 영속성 컨텍스트에 저장된 상태
 - 즉, Entity가 영속성 컨텍스트에 의해 관리되는 상태
