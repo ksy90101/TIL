@@ -37,6 +37,7 @@
 - [JaCoCo 설정하기](https://github.com/ksy90101/TIL/blob/master/java/jacoco-basic.md)
 - [OCP와 전략패턴](https://github.com/ksy90101/TIL/blob/master/java/ocp-and-strategy-pattern.md)
 - [DTO vs VO](https://github.com/ksy90101/TIL/blob/master/java/dto-vs-vo.md)
+- [객체지향 설계를 위한 SOLID 원칙](https://github.com/ksy90101/TIL/blob/master/java/solid.md)
 
 ## 🌷 Spring
 
@@ -77,6 +78,7 @@
 ## 📁 DataBase
 - [NoSQL vs RDBMS](https://github.com/ksy90101/TIL/blob/master/database/nosql-vs-rdbms.md)
 - [개념 모델 vs 논리모델 vs 물리모델](https://github.com/ksy90101/TIL/blob/master/database/db_modelings.md)
+- [Transtion의 성질 - ACID](https://github.com/ksy90101/TIL/blob/master/database/transaction-acid.md)
 
 ## ⚒ Infra
 - [Github Action을 이용해 gradle build를 진행하자.](https://github.com/ksy90101/TIL/blob/master/infra/github-action-pr-gradle-build.md)
