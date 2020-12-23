@@ -2,7 +2,7 @@
 
 ## RestTemplate이란?
 
-![mvc-pattern-1](https://github.com/ksy90101/TIL/blob/master/spring/img/resttemplate-vs-webclient-1.png?raw=ture)
+![resttemplate-vs-webclient-1](https://github.com/ksy90101/TIL/blob/master/spring/img/resttemplate-vs-webclient-1.png?raw=ture)
 
 - Spring은 오랫동안 웹 클라이언트 추상화로 RestTemplate을 제공하고 있었습니다.
 - 내부적으로 RestTemplate은 요청 당 스레드 모델을 기반으로 하는 Java Servlet API를 사용합니다.

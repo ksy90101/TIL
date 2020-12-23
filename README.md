@@ -6,6 +6,7 @@
 - [힙(heap) 알고리즘 이란?](https://github.com/ksy90101/TIL/blob/master/computerScience/heap-algorithm.md)
 - [피보나치 수 알고리즘](https://github.com/ksy90101/TIL/blob/master/computerScience/fibonacci-number-algorithm.md)
 - [Greedy Algorithms(탐욕 알고리즘)](https://github.com/ksy90101/TIL/blob/master/computerScience/greedy-algorithms.md)
+- [Permutation Algorithm(순열 알고리즘) & Combination Algorithm(조합 알고리즘)](https://github.com/ksy90101/TIL/blob/master/computerScience/permutation_and_combination.md)
 
 ## 🌐 Web
 
