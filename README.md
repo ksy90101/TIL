@@ -89,6 +89,9 @@
 - [정적분석도구 소나큐브 적용기](https://github.com/ksy90101/TIL/blob/master/infra/sonarqube-apply-java.md)
 - [Blue/Green 무중단 배포(spring boot + nginx)](https://github.com/ksy90101/TIL/blob/master/infra/blue-green-deployment.md)
 
+## 😂 회고
+- [0년차 개발자의 2020년 회고 😂](https://github.com/ksy90101/TIL/blob/master/retrospect/0-developer-2020-retrospect.md)
+
 ## 💻 lecture
   
 - [\[인프런\] Vue.js 시작하기 - Age of Vue.js](https://github.com/ksy90101/age-of-vue-js)
