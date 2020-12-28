@@ -8,6 +8,7 @@
 - [Greedy Algorithms(탐욕 알고리즘)](https://github.com/ksy90101/TIL/blob/master/computerScience/greedy-algorithms.md)
 - [Permutation Algorithm(순열 알고리즘) & Combination Algorithm(조합 알고리즘)](https://github.com/ksy90101/TIL/blob/master/computerScience/permutation_and_combination.md)
 - [1부터 100까지 더하는 효율적인 방법 찾기](https://github.com/ksy90101/TIL/blob/master/computerScience/1-to-100-sum.md)
+- [DFS(Depth First Search) VS BFS(Breadth First Search)](https://github.com/ksy90101/TIL/blob/master/computerScience/dfs-vs-bfs::W.md)
 
 ## 🌐 Web
 
