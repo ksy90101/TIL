@@ -10,7 +10,7 @@
 - 알고리즘 문제를 풀때 알아둔다면 쉽게 공식을 통해 풀수 있습니다.
 - 순열과 조합은 아래의 링크에서 확인해주세요.
 
-[ksy90101/TIL](https://github.com/ksy90101/TIL/blob/master/computerScience/permutation_and_combination.md)
+[Permutation Algorithm(순열 알고리즘) & Combination Algorithm(조합 알고리즘)](https://github.com/ksy90101/TIL/blob/master/computerScience/permutation_and_combination.md)
 
 ## 합의 법칙
 
