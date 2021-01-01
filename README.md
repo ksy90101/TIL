@@ -59,6 +59,7 @@
 - [Spring Logback profile 조합 전략](https://github.com/ksy90101/TIL/blob/master/spring/spring-logback-profile-combination.md)
 - [Spring에서으로 Log를 Slack으로 받아보기](https://github.com/ksy90101/TIL/blob/master/spring/logback-slack-appender.md)
 - [MVC Pattern](https://github.com/ksy90101/TIL/blob/master/spring/mvc-pattern.md)
+- [Spring Boot Welcome Page](https://github.com/ksy90101/TIL/blob/master/spring/spring-boot-welcome-page.md)
 
 ## 📜 JPA
 - [Spring Data JPA Logging](https://github.com/ksy90101/TIL/blob/master/jpa/spring-data-jpa-logging.md)
