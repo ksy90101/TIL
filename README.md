@@ -88,6 +88,7 @@
 - [NoSQL vs RDBMS](https://github.com/ksy90101/TIL/blob/master/database/nosql-vs-rdbms.md)
 - [개념 모델 vs 논리모델 vs 물리모델](https://github.com/ksy90101/TIL/blob/master/database/db_modelings.md)
 - [Transtion의 성질 - ACID](https://github.com/ksy90101/TIL/blob/master/database/transaction-acid.md)
+- [ORACLE, MYSQL 날짜에서 각 값들을 추출하기 🧐](https://github.com/ksy90101/TIL/blob/master/database/datetime-extract-each-value.md)
 
 ## ⚒ Infra
 - [Github Action을 이용해 gradle build를 진행하자.](https://github.com/ksy90101/TIL/blob/master/infra/github-action-pr-gradle-build.md)
