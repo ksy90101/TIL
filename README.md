@@ -69,16 +69,6 @@
 - [엔티티 생명주기(Entity LifeCycle)](https://github.com/ksy90101/TIL/blob/master/jpa/jpa-entity-life-cycle.md)
 
 ## 📚 Book
-- [처음배우는 스프링 부트2](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=168752840)
-    - [예제코드](https://github.com/ksy90101/book-spring-boot-start)
-    - [1장. 스프링 부트 입문하기](https://github.com/ksy90101/TIL/blob/master/spring/start-spring-boot2-1.md)
-    - [2장. 스프링 부트 환경설정](https://github.com/ksy90101/TIL/blob/master/spring/start-spring-boot2-2.md)
-    - [3장. 스프링 부트 테스트](https://github.com/ksy90101/TIL/blob/master/spring/start-spring-boot2-3.md)
-    - [4장. 스프링 부트 웹](https://github.com/ksy90101/TIL/blob/master/spring/start-spring-boot2-4.md)
-    - [5장. 스프링 부트 시큐리티 + OAuth2](https://github.com/ksy90101/TIL/blob/master/spring/start-spring-boot2-5.md)
-    - [6장. 스프링 부트 데이터 레스트](https://github.com/ksy90101/TIL/blob/master/spring/start-spring-boot2-6.md)
-    - [7장. 스프링 부트 배치](https://github.com/ksy90101/TIL/blob/master/spring/start-spring-boot2-7.md)
-    - [8장. 부록](https://github.com/ksy90101/TIL/blob/master/spring/start-spring-boot2-8.md)
 - [함께 자라기](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=244299982)
     - [1장. 자라기](https://github.com/ksy90101/TIL/blob/master/book/growing-together-1.md)
     - [2장. 함께](https://github.com/ksy90101/TIL/blob/master/book/growing-together-2.md)
@@ -89,6 +79,7 @@
 - [개념 모델 vs 논리모델 vs 물리모델](https://github.com/ksy90101/TIL/blob/master/database/db_modelings.md)
 - [Transtion의 성질 - ACID](https://github.com/ksy90101/TIL/blob/master/database/transaction-acid.md)
 - [ORACLE, MYSQL 날짜에서 각 값들을 추출하기 🧐](https://github.com/ksy90101/TIL/blob/master/database/datetime-extract-each-value.md)
+- [🤔 CASE WHEN ~ THEN ~ ELSE END](https://github.com/ksy90101/TIL/blob/master/database/case_when_then_else_end.md)
 
 ## ⚒ Infra
 - [Github Action을 이용해 gradle build를 진행하자.](https://github.com/ksy90101/TIL/blob/master/infra/github-action-pr-gradle-build.md)
