@@ -80,6 +80,7 @@
 - [Transtion의 성질 - ACID](https://github.com/ksy90101/TIL/blob/master/database/transaction-acid.md)
 - [ORACLE, MYSQL 날짜에서 각 값들을 추출하기 🧐](https://github.com/ksy90101/TIL/blob/master/database/datetime-extract-each-value.md)
 - [🤔 CASE WHEN ~ THEN ~ ELSE END](https://github.com/ksy90101/TIL/blob/master/database/case_when_then_else_end.md)
+- [SQL의 DDL, DML, DCL, TCL](https://github.com/ksy90101/TIL/blob/master/database/sql_purpose_kinds.md)
 
 ## ⚒ Infra
 - [Github Action을 이용해 gradle build를 진행하자.](https://github.com/ksy90101/TIL/blob/master/infra/github-action-pr-gradle-build.md)
