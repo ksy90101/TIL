@@ -74,6 +74,8 @@
     - [1장. 자라기](https://github.com/ksy90101/TIL/blob/master/book/growing-together-1.md)
     - [2장. 함께](https://github.com/ksy90101/TIL/blob/master/book/growing-together-2.md)
     - [3장. 애자일](https://github.com/ksy90101/TIL/blob/master/book/growing-together-3.md)
+ - [이펙티브 자바 3판](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=171196410)
+    - [저장소](https://github.com/ksy90101/effective-java-book)
     
 ## 📁 DataBase
 - [NoSQL vs RDBMS](https://github.com/ksy90101/TIL/blob/master/database/nosql-vs-rdbms.md)
