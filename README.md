@@ -99,4 +99,4 @@
 - [\[Tacademy\] JPA 프로그래밍 기본기 다지기](https://github.com/ksy90101/tacademy-jpa-basic)
 - [모두를 위한 컴퓨터 과학 (CS50 2019)](https://www.boostcourse.org/cs112/)
     - [1. 컴퓨팅 사고](https://github.com/ksy90101/TIL/blob/master/cs50/1_computational_thinking.md)
-
+    - [2. C언어](https://github.com/ksy90101/TIL/blob/master/cs50/2_c_language.md)
