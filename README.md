@@ -48,6 +48,13 @@
 - [Overloading(오버로딩) VS Overriding(오버라이딩)](https://github.com/ksy90101/TIL/blob/master/java/overloading-vs-overiding.md)
 - [String vs StringBuilder vs StringBuffer](https://github.com/ksy90101/TIL/blob/master/java/string-stringbuilder-stringbuffer.md)
 
+## 📜 JPA
+- [Spring Data JPA Logging](https://github.com/ksy90101/TIL/blob/master/jpa/spring-data-jpa-logging.md)
+- [javax.persistence.Entity Vs org.hibernate.annotations.Entity](https://github.com/ksy90101/TIL/blob/master/jpa/jpa-entity-vs-hibernate-entity.md)
+- [JPA DDL Auto With Hibernate](https://github.com/ksy90101/TIL/blob/master/jpa/jpa-ddl-auto-with-hibernate.md)
+- [JPA 페치(Fetch) 전략 - 즉시 로딩(EAGER)과 지연 로딩(LAZY)](https://github.com/ksy90101/TIL/blob/master/jpa/jpa-fetch-type.md)
+- [엔티티 생명주기(Entity LifeCycle)](https://github.com/ksy90101/TIL/blob/master/jpa/jpa-entity-life-cycle.md)
+
 ## 🌷 Spring
 
 - [AOP](https://github.com/ksy90101/TIL/blob/master/spring/AOP.md)
@@ -62,12 +69,8 @@
 - [MVC Pattern](https://github.com/ksy90101/TIL/blob/master/spring/mvc-pattern.md)
 - [Spring Boot Welcome Page](https://github.com/ksy90101/TIL/blob/master/spring/spring-boot-welcome-page.md)
 
-## 📜 JPA
-- [Spring Data JPA Logging](https://github.com/ksy90101/TIL/blob/master/jpa/spring-data-jpa-logging.md)
-- [javax.persistence.Entity Vs org.hibernate.annotations.Entity](https://github.com/ksy90101/TIL/blob/master/jpa/jpa-entity-vs-hibernate-entity.md)
-- [JPA DDL Auto With Hibernate](https://github.com/ksy90101/TIL/blob/master/jpa/jpa-ddl-auto-with-hibernate.md)
-- [JPA 페치(Fetch) 전략 - 즉시 로딩(EAGER)과 지연 로딩(LAZY)](https://github.com/ksy90101/TIL/blob/master/jpa/jpa-fetch-type.md)
-- [엔티티 생명주기(Entity LifeCycle)](https://github.com/ksy90101/TIL/blob/master/jpa/jpa-entity-life-cycle.md)
+## 🚄 RubyOnRails
+- [rails new File & Folder](https://github.com/ksy90101/TIL/blob/master/rubyOnRails/rails_new_file_folder.md)
 
 ## 📚 Book
 - [함께 자라기](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=244299982)
@@ -92,6 +95,7 @@
 
 ## 👨‍👩‍👧‍👦 Git
 - [Git Submodule 설정하기](https://github.com/ksy90101/TIL/blob/master/git/submodule_config.md)
+
 ## 😂 회고
 - [0년차 개발자의 2020년 회고 😂](https://github.com/ksy90101/TIL/blob/master/retrospect/0-developer-2020-retrospect.md)
 
