@@ -73,14 +73,7 @@
 - [rails new File & Folder](https://github.com/ksy90101/TIL/blob/master/rubyOnRails/rails_new_file_folder.md)
 - [RubyOnRails Getting Start(Blog 만들기) 1편](https://github.com/ksy90101/TIL/blob/master/rubyOnRails/ruby_on_rails_getting_start_blog_1.md)
 
-## 📚 Book
-- [함께 자라기](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=244299982)
-    - [1장. 자라기](https://github.com/ksy90101/TIL/blob/master/book/growing-together-1.md)
-    - [2장. 함께](https://github.com/ksy90101/TIL/blob/master/book/growing-together-2.md)
-    - [3장. 애자일](https://github.com/ksy90101/TIL/blob/master/book/growing-together-3.md)
- - [이펙티브 자바 3판](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=171196410)
-    - [저장소](https://github.com/ksy90101/effective-java-book)
-    
+
 ## 📁 DataBase
 - [NoSQL vs RDBMS](https://github.com/ksy90101/TIL/blob/master/database/nosql-vs-rdbms.md)
 - [개념 모델 vs 논리모델 vs 물리모델](https://github.com/ksy90101/TIL/blob/master/database/db_modelings.md)
@@ -100,8 +93,16 @@
 ## 😂 회고
 - [0년차 개발자의 2020년 회고 😂](https://github.com/ksy90101/TIL/blob/master/retrospect/0-developer-2020-retrospect.md)
 
+## 📚 Book
+- [함께 자라기](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=244299982)
+  - [1장. 자라기](https://github.com/ksy90101/TIL/blob/master/book/growing-together-1.md)
+  - [2장. 함께](https://github.com/ksy90101/TIL/blob/master/book/growing-together-2.md)
+  - [3장. 애자일](https://github.com/ksy90101/TIL/blob/master/book/growing-together-3.md)
+- [이펙티브 자바 3판](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=171196410)
+  - [저장소](https://github.com/ksy90101/effective-java-book)
+
 ## 💻 lecture
-  
+
 - [\[인프런\] Vue.js 시작하기 - Age of Vue.js](https://github.com/ksy90101/age-of-vue-js)
 - [\[Tacademy\] JPA 프로그래밍 기본기 다지기](https://github.com/ksy90101/tacademy-jpa-basic)
 - [모두를 위한 컴퓨터 과학 (CS50 2019)](https://www.boostcourse.org/cs112/)
