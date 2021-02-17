@@ -1,4 +1,4 @@
-# RubyOnRails Getting Start(Blog 만들기) 4편
+# RubyOnRails Getting Start(Blog 만들기) 4편(마지막👨‍🎨)
 
 ## 💼 서론
 

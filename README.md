@@ -74,7 +74,8 @@
 - [RubyOnRails Getting Start(Blog 만들기) 1편](https://github.com/ksy90101/TIL/blob/master/rubyOnRails/ruby_on_rails_getting_start_blog_1.md)
 - [RubyOnRails Getting Start(Blog 만들기) 2편](https://github.com/ksy90101/TIL/blob/master/rubyOnRails/ruby_on_rails_getting_start_blog_2.md)
 - [RubyOnRails Getting Start(Blog 만들기) 3편](https://github.com/ksy90101/TIL/blob/master/rubyOnRails/ruby_on_rails_getting_start_blog_3.md)
-- [RubyOnRails Getting Start(Blog 만들기) 4편](https://github.com/ksy90101/TIL/blob/master/rubyOnRails/ruby_on_rails_getting_start_blog_4.md)
+- [RubyOnRails Getting Start(Blog 만들기) 4편(마지막👨‍🎨)](https://github.com/ksy90101/TIL/blob/master/rubyOnRails/ruby_on_rails_getting_start_blog_4.md)
+- [[RubyOnRails Guides] Active Record Basics](https://github.com/ksy90101/TIL/blob/master/rubyOnRails/ruby_on_rails_guide_active_record_basics.md)
 
 
 ## 📁 DataBase
