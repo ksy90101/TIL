@@ -3,6 +3,7 @@
 
 ## ✍️ Translation
 - [IntegrationTest](https://github.com/ksy90101/TIL/blob/master/translation/IntegrationTest.md)
+- [6 Ways to Speed Up Your Vue.js Application (Vue.js 애플리케이션의 성능 향상을 위한 6가지 방법)](https://github.com/ksy90101/TIL/blob/master/translation/6%20Ways%20to%20Speed%20Up%20Your%20Vue.js%20Application.md)
 
 ## 🧷 ComputerScience
 - [Stack vs Queue](https://github.com/ksy90101/TIL/blob/master/computerScience/stack-vs-queue.md)
