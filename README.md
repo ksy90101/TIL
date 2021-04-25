@@ -39,6 +39,7 @@
 - [배열 내 특정 값 삭제하기](https://github.com/ksy90101/TIL/blob/master/javascript/remove-array-value.md)
 - [간단하게 진수를 변환하기](https://github.com/ksy90101/TIL/blob/master/javascript/transforming-redix.md)
 - [Array.every() & Array.some()](https://github.com/ksy90101/TIL/blob/master/javascript/array-every-and-some.md)
+- [DOM(Document Object Model) VS BOM(Browser OBject Model)](https://github.com/ksy90101/TIL/blob/master/javascript/DOM-vs-BOM.md)
 
 ## ☕️ Java
 
