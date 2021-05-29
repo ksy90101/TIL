@@ -76,7 +76,7 @@
 - 요청이 연이어 발생하기 때문에 응답 역시 요청의 방향과 반대 방향으로 연쇄적으로 전달된다.
 - 요청과 응답을 통해 다른 사람과 **협력(collaboration)**할 수 있는 능력은 인간으로 하여금 거대하고 복잡한 문제를 해결할 수 있는 공동체를 형성할 수 있게 만든다. 협력의 성공은 특정한 역할을 맡은 각 개인이 얼마나 요청을 성실히 이행하는가에 달려 있다.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a02913cc-ff7f-45cc-9965-7301177b1f44/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a02913cc-ff7f-45cc-9965-7301177b1f44/Untitled.png)
+![image](https://user-images.githubusercontent.com/53366407/120055401-bfb34880-c070-11eb-95aa-c33e7eee3125.png)
 
 ### 역할과 책임
 
