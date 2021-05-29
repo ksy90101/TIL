@@ -109,9 +109,11 @@
   - [3장. 애자일](https://github.com/ksy90101/TIL/blob/master/book/growing-together-3.md)
 - [이펙티브 자바 3판](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=171196410)
   - [저장소](https://github.com/ksy90101/effective-java-book)
+- [객체지향 사실과 오해](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=60550259)
+  - [1장. 협력하는 객체들의 공동체](https://github.com/ksy90101/TIL/blob/master/book/meet_oriented_facts_and_misconceptions_1.md)
+  - [2장. 이상한 나라의 객체](https://github.com/ksy90101/TIL/blob/master/book/meet_oriented_facts_and_misconceptions_2.md)
 
 ## 💻 lecture
-
 - [\[인프런\] Vue.js 시작하기 - Age of Vue.js](https://github.com/ksy90101/age-of-vue-js)
 - [\[Tacademy\] JPA 프로그래밍 기본기 다지기](https://github.com/ksy90101/tacademy-jpa-basic)
 - [모두를 위한 컴퓨터 과학 (CS50 2019)](https://www.boostcourse.org/cs112/)
