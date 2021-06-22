@@ -2,7 +2,7 @@
 🗂 Today I Learning
 
 ## ✍️ Translation
-- [IntegrationTest](https://github.com/ksy90101/TIL/blob/master/translation/IntegrationTest.md)
+- [IntegrationTest(통합테스트)](https://github.com/ksy90101/TIL/blob/master/translation/IntegrationTest.md)
 - [6 Ways to Speed Up Your Vue.js Application (Vue.js 애플리케이션의 성능 향상을 위한 6가지 방법)](https://github.com/ksy90101/TIL/blob/master/translation/6%20Ways%20to%20Speed%20Up%20Your%20Vue.js%20Application.md)
 - [Why Engineering Managers Still Want To Write Code(왜 개발 관리자가 여전히 코드를 작성하길 원하는가)](https://github.com/ksy90101/TIL/blob/master/translation/Why_Engineering_Managers_Still_Want_To_Write_Code.md)
 
