@@ -55,7 +55,7 @@
 - [String vs StringBuilder vs StringBuffer](https://github.com/ksy90101/TIL/blob/master/java/string-stringbuilder-stringbuffer.md)
 
 ## 💎 Ruby
-- [ruby의 map vs each](https://github.com/ksy90101/TIL/blob/master/ruby/ruby_map_vs_each)
+- [ruby의 map vs each](https://github.com/ksy90101/TIL/blob/master/ruby/ruby_map_vs_each.md)
 
 ## 📜 JPA
 
