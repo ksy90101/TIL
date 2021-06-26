@@ -54,7 +54,11 @@
 - [Overloading(오버로딩) VS Overriding(오버라이딩)](https://github.com/ksy90101/TIL/blob/master/java/overloading-vs-overiding.md)
 - [String vs StringBuilder vs StringBuffer](https://github.com/ksy90101/TIL/blob/master/java/string-stringbuilder-stringbuffer.md)
 
+## 💎 Ruby
+- [ruby의 map vs each](https://github.com/ksy90101/TIL/blob/master/ruby/ruby_map_vs_each)
+
 ## 📜 JPA
+
 - [Spring Data JPA Logging](https://github.com/ksy90101/TIL/blob/master/jpa/spring-data-jpa-logging.md)
 - [javax.persistence.Entity Vs org.hibernate.annotations.Entity](https://github.com/ksy90101/TIL/blob/master/jpa/jpa-entity-vs-hibernate-entity.md)
 - [JPA DDL Auto With Hibernate](https://github.com/ksy90101/TIL/blob/master/jpa/jpa-ddl-auto-with-hibernate.md)
