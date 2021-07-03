@@ -119,6 +119,10 @@
   - [2장. 이상한 나라의 객체](https://github.com/ksy90101/TIL/blob/master/book/meet_oriented_facts_and_misconceptions_2.md)
   - [3장. 타입과 추상화](https://github.com/ksy90101/TIL/blob/master/book/meet_oriented_facts_and_misconceptions_3.md)
   - [4장. 역할, 책임, 협력](https://github.com/ksy90101/TIL/blob/master/book/meet_oriented_facts_and_misconceptions_4.md)
+- [DDD Start]()
+  - [1장. 도메인 모델 시작](https://github.com/ksy90101/TIL/blob/master/book/DDD-start-1.md)
+  - [2장. 아키텍처 개요](https://github.com/ksy90101/TIL/blob/master/book/DDD-start-2.md)
+  - [3장. 애그리거트](https://github.com/ksy90101/TIL/blob/master/book/DDD-start-3.md)
 
 ## 💻 lecture
 - [\[인프런\] Vue.js 시작하기 - Age of Vue.js](https://github.com/ksy90101/age-of-vue-js)
