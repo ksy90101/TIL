@@ -30,7 +30,7 @@
 - [RESTful 6가지 제약조건](https://github.com/ksy90101/TIL/blob/master/web/RESTful-six-architectural-constraints.md)
 - [RestTemplate VS WebClient](https://github.com/ksy90101/TIL/blob/master/web/resttemplate-vs-webclient.md)
 
-## 💣 Java Script
+## 💣 JavaScript
 
 - [Array.filter()](https://github.com/ksy90101/TIL/blob/master/javascript/ArrayFilter.md)
 - [Array.sort()](https://github.com/ksy90101/TIL/blob/master/javascript/ArraySort.md)
@@ -41,6 +41,10 @@
 - [간단하게 진수를 변환하기](https://github.com/ksy90101/TIL/blob/master/javascript/transforming-redix.md)
 - [Array.every() & Array.some()](https://github.com/ksy90101/TIL/blob/master/javascript/array-every-and-some.md)
 - [DOM(Document Object Model) VS BOM(Browser OBject Model)](https://github.com/ksy90101/TIL/blob/master/javascript/DOM-vs-BOM.md)
+
+## ⛑ TypeScript
+
+- [TypeScript를 이용해 Jest 테스트를 진행해보자.](https://github.com/ksy90101/TIL/blob/master/typescript/typescript-jest-config.md)
 
 ## ☕️ Java
 
@@ -86,7 +90,6 @@
 - [RubyOnRails Getting Start(Blog 만들기) 3편](https://github.com/ksy90101/TIL/blob/master/rubyOnRails/ruby_on_rails_getting_start_blog_3.md)
 - [RubyOnRails Getting Start(Blog 만들기) 4편(마지막👨‍🎨)](https://github.com/ksy90101/TIL/blob/master/rubyOnRails/ruby_on_rails_getting_start_blog_4.md)
 - [[RubyOnRails Guides] Active Record Basics](https://github.com/ksy90101/TIL/blob/master/rubyOnRails/ruby_on_rails_guide_active_record_basics.md)
-
 
 ## 📁 DataBase
 - [NoSQL vs RDBMS](https://github.com/ksy90101/TIL/blob/master/database/nosql-vs-rdbms.md)
