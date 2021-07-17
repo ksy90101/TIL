@@ -129,6 +129,16 @@
   - [4장. 리포지터리와 모델구현(JPA 중심)](https://github.com/ksy90101/TIL/blob/master/book/DDD-start-4.md)
   - [5장. 리포지터리의 조회 기능(JPA 중심)](https://github.com/ksy90101/TIL/blob/master/book/DDD-start-5.md)
   - [6장. 응용 서비스와 표현 영역](https://github.com/ksy90101/TIL/blob/master/book/DDD-start-6.md)
+- [Test Driven Development By Typescript](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=37469717)
+  - [예제코드 저장소](https://github.com/ksy90101/test-driven-development-typescript)
+  - [서론](https://github.com/ksy90101/TIL/blob/master/book/test-driven-development-typescript/test-driven-development-typescript-0.md)
+  ##### 1부. 화폐 예제
+  - [1장. 다중 통화를 지원하는 Money 객체](https://github.com/ksy90101/TIL/blob/master/book/test-driven-development-typescript/test-driven-development-typescript-1.md)
+  - [2장. 타락한 객체](https://github.com/ksy90101/TIL/blob/master/book/test-driven-development-typescript/test-driven-development-typescript-2.md)
+  - [3장. 모두를 위한 평등](https://github.com/ksy90101/TIL/blob/master/book/test-driven-development-typescript/test-driven-development-typescript-3.md)
+  - [4장. 프라이버시](https://github.com/ksy90101/TIL/blob/master/book/test-driven-development-typescript/test-driven-development-typescript-4.md)
+  - [5장. 솔직히 말하자면](https://github.com/ksy90101/TIL/blob/master/book/test-driven-development-typescript/test-driven-development-typescript-5.md)
+  - [6장. 돌아온 '모두를 위한 평등'](https://github.com/ksy90101/TIL/blob/master/book/test-driven-development-typescript/test-driven-development-typescript-6.md)
 
 ## 💻 lecture
 - [\[인프런\] Vue.js 시작하기 - Age of Vue.js](https://github.com/ksy90101/age-of-vue-js)
