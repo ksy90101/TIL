@@ -128,6 +128,7 @@
   - [3장. 애그리거트](https://github.com/ksy90101/TIL/blob/master/book/DDD-start-3.md)
   - [4장. 리포지터리와 모델구현(JPA 중심)](https://github.com/ksy90101/TIL/blob/master/book/DDD-start-4.md)
   - [5장. 리포지터리의 조회 기능(JPA 중심)](https://github.com/ksy90101/TIL/blob/master/book/DDD-start-5.md)
+  - [6장. 응용 서비스와 표현 영역](https://github.com/ksy90101/TIL/blob/master/book/DDD-start-6.md)
 
 ## 💻 lecture
 - [\[인프런\] Vue.js 시작하기 - Age of Vue.js](https://github.com/ksy90101/age-of-vue-js)
