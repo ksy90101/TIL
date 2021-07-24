@@ -129,6 +129,8 @@
   - [4장. 리포지터리와 모델구현(JPA 중심)](https://github.com/ksy90101/TIL/blob/master/book/DDD-start-4.md)
   - [5장. 리포지터리의 조회 기능(JPA 중심)](https://github.com/ksy90101/TIL/blob/master/book/DDD-start-5.md)
   - [6장. 응용 서비스와 표현 영역](https://github.com/ksy90101/TIL/blob/master/book/DDD-start-6.md)
+  - [7장. 도메인 서비스](https://github.com/ksy90101/TIL/blob/master/book/DDD-start-7.md)
+  - [11장. CQRS](https://github.com/ksy90101/TIL/blob/master/book/DDD-start-11.md)
 - [Test Driven Development By Typescript](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=37469717)
   - [예제코드 저장소](https://github.com/ksy90101/test-driven-development-typescript)
   - [서론](https://github.com/ksy90101/TIL/blob/master/book/test-driven-development-typescript/test-driven-development-typescript-0.md)
