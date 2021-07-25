@@ -141,6 +141,11 @@
   - [4장. 프라이버시](https://github.com/ksy90101/TIL/blob/master/book/test-driven-development-typescript/test-driven-development-typescript-4.md)
   - [5장. 솔직히 말하자면](https://github.com/ksy90101/TIL/blob/master/book/test-driven-development-typescript/test-driven-development-typescript-5.md)
   - [6장. 돌아온 '모두를 위한 평등'](https://github.com/ksy90101/TIL/blob/master/book/test-driven-development-typescript/test-driven-development-typescript-6.md)
+  - [7장. 사과와 오렌지](https://github.com/ksy90101/TIL/blob/master/book/test-driven-development-typescript/test-driven-development-typescript-7.md)
+  - [8장. 객체 만들기](https://github.com/ksy90101/TIL/blob/master/book/test-driven-development-typescript/test-driven-development-typescript-8.md)
+  - [9장. 우리가 사는 시간](https://github.com/ksy90101/TIL/blob/master/book/test-driven-development-typescript/test-driven-development-typescript-9.md)
+  - [10장. 흥미로운 시간](https://github.com/ksy90101/TIL/blob/master/book/test-driven-development-typescript/test-driven-development-typescript-10.md)
+  - [11장. 모든 악의 근원](https://github.com/ksy90101/TIL/blob/master/book/test-driven-development-typescript/test-driven-development-typescript-11.md)
 
 ## 💻 lecture
 - [\[인프런\] Vue.js 시작하기 - Age of Vue.js](https://github.com/ksy90101/age-of-vue-js)
