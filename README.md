@@ -6,6 +6,7 @@
 - [6 Ways to Speed Up Your Vue.js Application (Vue.js 애플리케이션의 성능 향상을 위한 6가지 방법)](https://github.com/ksy90101/TIL/blob/master/translation/6%20Ways%20to%20Speed%20Up%20Your%20Vue.js%20Application.md)
 - [Why Engineering Managers Still Want To Write Code(왜 개발 관리자가 여전히 코드를 작성하길 원하는가)](https://github.com/ksy90101/TIL/blob/master/translation/Why_Engineering_Managers_Still_Want_To_Write_Code.md)
 - [7 Powerful JavaScript Shorthands That You Should Know(알아야 할 7개의 강력한 JavaScript의 단축 표기법)](https://github.com/ksy90101/TIL/blob/master/translation/7_powerful_javaScript_shorthands_that_you_should_know.md)
+- [Vue Enterprise Patterns — How to Build Components With Design System Variants(Vue Enterprise Patterns — 디자인 시스템 변형과 함께 컴포넌트들을 빌드하는 방법)](https://github.com/ksy90101/TIL/blob/master/translation/vue_enterprise_patterns_how_to_build_components_with_design_system_variants.md)
 
 ## 🧷 ComputerScience
 - [Stack vs Queue](https://github.com/ksy90101/TIL/blob/master/computerScience/stack-vs-queue.md)
