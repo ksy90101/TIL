@@ -238,8 +238,6 @@ if (obj instanceof String mystr) {
 
 # **Sealed classes - Java 15**
 
-With the [sealed keyword](https://docs.oracle.com/en/java/javase/15/language/sealed-classes-and-interfaces.html), you can **restrict** which classes can **extend** a given class or interface. Here’s an example:
-
 클래스나 인터페이스 상속에 대해 제한할 수 있는 `sealed` 이 있습니다.
 
 ```java
