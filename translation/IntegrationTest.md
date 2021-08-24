@@ -19,8 +19,6 @@
 
 그러나 우리는 별도로 [ContractTests](https://martinfowler.com/bliki/ContractTest.html)를 사용할 수 있습니다.
 
-Teams that do this, may still do some form of end-to-end system test with all real services, but if so it's only a final smoke test with a very limited range of paths tested. It also helps to have a mature QA in Production capability, and if that is mature enough, there may be no end-to-end system testing done at all.
-
 narrow Integration Test와 Contract Test를 조합해서 사용하면, 서비스의 실제 인스턴스에 대한 테스트 없이 외부 서비스에 대한 통합 테스트에 대해 의심하지 않을수 있어 빌드 프로세스를 크게 쉬워진다. 이 작업을 수행하는 팀은 모든 실제 서비스에 대해 end-to-end System Test의 어떠한 형태로도 수행할 수 있지만, 제한된 범위의 경로를 테스트를 한 smock test일 뿐입니다. 또한 성숙한 프로덕션의 QA를 할 수 있게 도와주지만, 모든 end-to-end System Test가 전혀 수행되지 않을 수 있습니다.
 
 ![https://martinfowler.com/bliki/images/integrationTesting/sketch.png](https://martinfowler.com/bliki/images/integrationTesting/sketch.png)
