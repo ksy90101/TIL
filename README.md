@@ -60,7 +60,7 @@
 - [객체지향 설계를 위한 SOLID 원칙](https://github.com/ksy90101/TIL/blob/master/java/solid.md)
 - [Overloading(오버로딩) VS Overriding(오버라이딩)](https://github.com/ksy90101/TIL/blob/master/java/overloading-vs-overiding.md)
 - [String vs StringBuilder vs StringBuffer](https://github.com/ksy90101/TIL/blob/master/java/string-stringbuilder-stringbuffer.md)
-- [FileReader가 File을 찾아올때 경로가 어떻게 될까?](https://github.com/ksy90101/TIL/tree/master/java)
+- [FileReader가 File을 찾아올때 경로가 어떻게 될까?](https://github.com/ksy90101/TIL/blob/master/java/where_fileReader_file_path.md)
 
 ## 💎 Ruby
 - [ruby의 map vs each](https://github.com/ksy90101/TIL/blob/master/ruby/ruby_map_vs_each.md)
