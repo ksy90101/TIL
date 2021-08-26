@@ -8,6 +8,7 @@
 - [7 Powerful JavaScript Shorthands That You Should Know(알아야 할 7개의 강력한 JavaScript의 단축 표기법)](https://github.com/ksy90101/TIL/blob/master/translation/7_powerful_javaScript_shorthands_that_you_should_know.md)
 - [Vue Enterprise Patterns — How to Build Components With Design System Variants(Vue Enterprise Patterns — 디자인 시스템 변형과 함께 컴포넌트들을 빌드하는 방법)](https://github.com/ksy90101/TIL/blob/master/translation/vue_enterprise_patterns_how_to_build_components_with_design_system_variants.md)
 - [From Java 8 to Java15 in Ten Minutes(Java8부터 Java15까지 10분안에 보기)](https://github.com/ksy90101/TIL/blob/master/translation/from_java8_to_java15_in_ten_minutes.md)
+- [Immutability in Java(자바의 불변성)](https://github.com/ksy90101/TIL/blob/master/translation/Immutability_in_Java.md)
 
 ## 🧷 ComputerScience
 - [Stack vs Queue](https://github.com/ksy90101/TIL/blob/master/computerScience/stack-vs-queue.md)
