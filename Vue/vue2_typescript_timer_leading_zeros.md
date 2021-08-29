@@ -21,7 +21,7 @@ const useTimer = () => {
 
   const start = (baseTime: Date) => {
     const now = new Date();
-    timer.value = Math.floor(((now as any) - (baseTime as any)) / 1000);
+    timer.value = Math.floor(now.valueOf() - baseTime.valueOf()) / 1000);
 
     setInterval(() => {
       timer.value++;
