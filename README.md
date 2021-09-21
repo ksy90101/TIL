@@ -10,6 +10,7 @@
 - [From Java 8 to Java15 in Ten Minutes(Java8부터 Java15까지 10분안에 보기)](https://github.com/ksy90101/TIL/blob/master/translation/from_java8_to_java15_in_ten_minutes.md)
 - [Immutability in Java(자바의 불변성)](https://github.com/ksy90101/TIL/blob/master/translation/Immutability_in_Java.md)
 - [Introduction to Java Bytecode You Didn’t Know You Needed(필요한지 몰랐던 자바 바이트 코드 소개)](https://github.com/ksy90101/TIL/blob/master/translation/Introduction%20to%20Java%20Bytecode%20You%20Didn%E2%80%99t%20Know%20You%20Needed.md)
+- [Spring Boot Tips, Tricks and Techniques(스프링 부트 팁, 트릭, 기술)](https://github.com/ksy90101/TIL/blob/master/translation/Spring%20Boot%20Tips%2C%20Tricks%20and%20Techniques.md)
 
 ## 🧷 ComputerScience
 - [Stack vs Queue](https://github.com/ksy90101/TIL/blob/master/computerScience/stack-vs-queue.md)
