@@ -157,6 +157,8 @@
   - [9장. 우리가 사는 시간](https://github.com/ksy90101/TIL/blob/master/book/test-driven-development-typescript/test-driven-development-typescript-9.md)
   - [10장. 흥미로운 시간](https://github.com/ksy90101/TIL/blob/master/book/test-driven-development-typescript/test-driven-development-typescript-10.md)
   - [11장. 모든 악의 근원](https://github.com/ksy90101/TIL/blob/master/book/test-driven-development-typescript/test-driven-development-typescript-11.md)
+- [SQL 첫걸음](https://github.com/ksy90101/TIL/blob/master/book/sql_first_step)
+  - [1장. 데이터베이스와 SQL](https://github.com/ksy90101/TIL/blob/master/book/sql_first_step/1.md)
 
 ## 💻 lecture
 - [\[인프런\] Vue.js 시작하기 - Age of Vue.js](https://github.com/ksy90101/age-of-vue-js)
