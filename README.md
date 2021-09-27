@@ -79,6 +79,7 @@
 - [JPA DDL Auto With Hibernate](https://github.com/ksy90101/TIL/blob/master/jpa/jpa-ddl-auto-with-hibernate.md)
 - [JPA 페치(Fetch) 전략 - 즉시 로딩(EAGER)과 지연 로딩(LAZY)](https://github.com/ksy90101/TIL/blob/master/jpa/jpa-fetch-type.md)
 - [엔티티 생명주기(Entity LifeCycle)](https://github.com/ksy90101/TIL/blob/master/jpa/jpa-entity-life-cycle.md)
+- [@Id / @GeneratedValue에 대해 알아보자](https://github.com/ksy90101/TIL/blob/master/jpa/%40GeneratedValue%20Inquired.md)
 
 ## 🌷 Spring
 
