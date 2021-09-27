@@ -1,4 +1,4 @@
-# @GeneratedValue에 대해 알아보자
+# @Id / @GeneratedValue에 대해 알아보자
 
 > PK를 나타내기 위해 `@Id` 어노테이션을 사용하며, 생성 전략을 정의하기 위해 `@GeneratedValue` 를 사용한다. 해당 어노테이션에 대해서 알아보도록 하자.
 
