@@ -164,6 +164,7 @@
 
 - [이펙티브 타입스크립트](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=273193135)
   - [아이템1. 타입스크립트와 자바스크립트의 관계 이해하기](https://github.com/ksy90101/TIL/blob/master/book/effective-typescript/1.md)
+  - [아이템2. 타입스크립트 설정 이해하기](https://github.com/ksy90101/TIL/blob/master/book/effective-typescript/2.md)
 
 ## 💻 lecture
 - [\[인프런\] Vue.js 시작하기 - Age of Vue.js](https://github.com/ksy90101/age-of-vue-js)
