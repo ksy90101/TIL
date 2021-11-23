@@ -162,6 +162,9 @@
 - [SQL 첫걸음](https://github.com/ksy90101/TIL/blob/master/book/sql_first_step)
   - [1장. 데이터베이스와 SQL](https://github.com/ksy90101/TIL/blob/master/book/sql_first_step/1.md)
 
+- [이펙티브 타입스크립트](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=273193135)
+  - [아이템1. 타입스크립트와 자바스크립트의 관계 이해하기](https://github.com/ksy90101/TIL/blob/master/book/effective-typescript/1.md)
+
 ## 💻 lecture
 - [\[인프런\] Vue.js 시작하기 - Age of Vue.js](https://github.com/ksy90101/age-of-vue-js)
 - [\[Tacademy\] JPA 프로그래밍 기본기 다지기](https://github.com/ksy90101/tacademy-jpa-basic)
