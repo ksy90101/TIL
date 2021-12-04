@@ -71,6 +71,7 @@
 
 ## 💎 Ruby
 - [ruby의 map vs each](https://github.com/ksy90101/TIL/blob/master/ruby/ruby_map_vs_each.md)
+- [Functions in Ruby(루비의 함수)](https://github.com/ksy90101/TIL/blob/master/ruby/Functions%20in%20Ruby.md)
 
 ## 📜 JPA
 
