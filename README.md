@@ -99,6 +99,7 @@
 - [Spring에서으로 Log를 Slack으로 받아보기](https://github.com/ksy90101/TIL/blob/master/spring/logback-slack-appender.md)
 - [MVC Pattern](https://github.com/ksy90101/TIL/blob/master/spring/mvc-pattern.md)
 - [Spring Boot Welcome Page](https://github.com/ksy90101/TIL/blob/master/spring/spring-boot-welcome-page.md)
+- [Spring의 ResponseEntity에 대해 알아보자Spring의 ResponseEntity에 대해 알아보자](https://github.com/ksy90101/TIL/blob/master/spring/what-spring-reponse-entity.md)
 
 ## 🚄 RubyOnRails
 - [rails new File & Folder](https://github.com/ksy90101/TIL/blob/master/rubyOnRails/rails_new_file_folder.md)
