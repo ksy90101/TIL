@@ -108,7 +108,7 @@
 - [RubyOnRails Getting Start(Blog 만들기) 3편](https://github.com/ksy90101/TIL/blob/master/rubyOnRails/ruby_on_rails_getting_start_blog_3.md)
 - [RubyOnRails Getting Start(Blog 만들기) 4편(마지막👨‍🎨)](https://github.com/ksy90101/TIL/blob/master/rubyOnRails/ruby_on_rails_getting_start_blog_4.md)
 - [[RubyOnRails Guides] Active Record Basics](https://github.com/ksy90101/TIL/blob/master/rubyOnRails/ruby_on_rails_guide_active_record_basics.md)
-- [How Rails Sessions Work(어떻게 레일즈 세션은 동작하는가)](https://github.com/ksy90101/TIL/blob/master/rubyOnRails/How Rails Sessions Work.md)
+- [How Rails Sessions Work(어떻게 레일즈 세션은 동작하는가)](https://github.com/ksy90101/TIL/blob/master/rubyOnRails/How_Rails_Sessions_Work.md)
 
 ## 📁 DataBase
 - [NoSQL vs RDBMS](https://github.com/ksy90101/TIL/blob/master/database/nosql-vs-rdbms.md)
