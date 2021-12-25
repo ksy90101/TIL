@@ -76,6 +76,7 @@
 - [ruby의 map vs each](https://github.com/ksy90101/TIL/blob/master/ruby/ruby_map_vs_each.md)
 - [Functions in Ruby(루비의 함수)](https://github.com/ksy90101/TIL/blob/master/ruby/Functions%20in%20Ruby.md)
 - [Comparing Each vs Select vs Map vs Collect in Ruby(루비의 Each vs Select vs Map vs Collect 비교)](https://github.com/ksy90101/TIL/blob/master/ruby/Comparing%20Each%20vs%20Select%20vs%20Map%20vs%20Collect%20in%20Ruby.md)
+- [Mastering data structures in Ruby — Doubly linked lists(Ruby의 데이터 구조 마스터 하기 - 이중 연결 목록)](https://github.com/ksy90101/TIL/blob/master/ruby/Mastering_data_structures_in_Ruby_Doubly_linked_lists.md)
 
 ## 📜 JPA
 
