@@ -48,6 +48,7 @@
 - [간단하게 진수를 변환하기](https://github.com/ksy90101/TIL/blob/master/javascript/transforming-redix.md)
 - [Array.every() & Array.some()](https://github.com/ksy90101/TIL/blob/master/javascript/array-every-and-some.md)
 - [DOM(Document Object Model) VS BOM(Browser OBject Model)](https://github.com/ksy90101/TIL/blob/master/javascript/DOM-vs-BOM.md)
+- [JavaScript Code Styling Best Practices — Maximum Function Length, Callbacks, Parameters(자바스크립트 코딩 스타일의 Bast Pratices - 최대 함수 길이, 콜백, 매개변수)](https://github.com/ksy90101/TIL/blob/master/javascript/javascript_code_styling_best_practices_maximum_function_length_callbacks_parameters.md)
 
 ## ⛑ TypeScript
 
