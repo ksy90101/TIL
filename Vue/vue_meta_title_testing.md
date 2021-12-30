@@ -190,7 +190,7 @@ const wrapper = shallowMount(Index, {
     <title>Foo Bar - Baz</title>
     ```
     
-- **htmlAttrs, headAttrs, bodyAttrs :** <html>, <head>, <body> 태그에 속성값을 추가합니다.
+- **htmlAttrs, headAttrs, bodyAttrs :** `<html>`, `<head>`, `<body>` 태그에 속성값을 추가합니다.
     
     ```tsx
     {
@@ -208,7 +208,7 @@ const wrapper = shallowMount(Index, {
     <body class="dark-mode mobile">Foo Bar</body>
     ```
     
-- **base :** <base> 태그에 매핑됩니다.
+- **base :** `<base>` 태그에 매핑됩니다.
     
     ```tsx
     {
@@ -219,7 +219,7 @@ const wrapper = shallowMount(Index, {
     <base target="_blank" href="/">
     ```
     
-- **meta**: <meta> 태그에 매핑됩니다.
+- **meta**: `<meta>` 태그에 매핑됩니다.
     
     ```tsx
     {
@@ -235,7 +235,7 @@ const wrapper = shallowMount(Index, {
     <meta name="viewport" content="width=device-width, initial-scale=1">
     ```
     
-- **link**: <link> 태그에 매핑됩니다.
+- **link**: `<link>` 태그에 매핑됩니다.
     
     ```tsx
     {
@@ -251,7 +251,7 @@ const wrapper = shallowMount(Index, {
     <link rel="favicon" href="favicon.ico">
     ```
     
-- **style**: <style> 태그에 매핑됩니다.
+- **style**: `<style>` 태그에 매핑됩니다.
     
     ```tsx
     {
@@ -264,7 +264,7 @@ const wrapper = shallowMount(Index, {
     <style type="text/css">.foo { color: red }</style>
     ```
     
-- **script**: <script> 태그에 매핑됩니다.
+- **script**: `<script>` 태그에 매핑됩니다.
     
     ```tsx
     {
