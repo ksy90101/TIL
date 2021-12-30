@@ -70,6 +70,7 @@
 
 ## 🌆 Vue
 - [Vue에서 TypeScript로 Timer의 Leading Zeros를 구현해보자.](https://github.com/ksy90101/TIL/blob/master/Vue/vue2_typescript_timer_leading_zeros.md)
+- [Vue2에서 Meta Title를 테스트 해보자.](https://github.com/ksy90101/TIL/blob/master/Vue/vue_meta_title_testing.md)
 
 ## 🌠 React
 - [<> Fragments? </>란?](https://github.com/ksy90101/TIL/blob/master/React/what%20fragments.md)
