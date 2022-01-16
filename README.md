@@ -75,6 +75,7 @@
 
 ## 🌠 React
 - [<> Fragments? </>란?](https://github.com/ksy90101/TIL/blob/master/React/what%20fragments.md)
+- [React의 defaultValue vs value](https://github.com/ksy90101/TIL/blob/master/React/value-vs-defaultValue.md)
 
 ## 💎 Ruby
 - [ruby의 map vs each](https://github.com/ksy90101/TIL/blob/master/ruby/ruby_map_vs_each.md)
