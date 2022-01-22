@@ -174,11 +174,11 @@
   - [11장. 모든 악의 근원](https://github.com/ksy90101/TIL/blob/master/book/test-driven-development-typescript/test-driven-development-typescript-11.md)
 - [SQL 첫걸음](https://github.com/ksy90101/TIL/blob/master/book/sql_first_step)
   - [1장. 데이터베이스와 SQL](https://github.com/ksy90101/TIL/blob/master/book/sql_first_step/1.md)
-
 - [이펙티브 타입스크립트](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=273193135)
   - [아이템1. 타입스크립트와 자바스크립트의 관계 이해하기](https://github.com/ksy90101/TIL/blob/master/book/effective-typescript/1.md)
   - [아이템2. 타입스크립트 설정 이해하기](https://github.com/ksy90101/TIL/blob/master/book/effective-typescript/2.md)
   - [아이템3. 코드 생성과 타입이 관계없음을 이해하기](https://github.com/ksy90101/TIL/blob/master/book/effective-typescript/3.md)
+- [만들면서 배우는 클린 아키텍처 : 자바 코드로 구현하는 클린 웹 애플리케이션](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=283437942)
 
 ## 💻 lecture
 - [\[인프런\] Vue.js 시작하기 - Age of Vue.js](https://github.com/ksy90101/age-of-vue-js)
