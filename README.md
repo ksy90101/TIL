@@ -183,6 +183,7 @@
   - [1. 계층형 아키텍처의 문제는 무엇일까?](https://github.com/ksy90101/TIL/blob/master/book/Get_your_hands_dirty_on_clean_architecture/1.md)
   - [2. 의존성 역전하기](https://github.com/ksy90101/TIL/blob/master/book/Get_your_hands_dirty_on_clean_architecture/2.md)
   - [3. 코드 구성하기](https://github.com/ksy90101/TIL/blob/master/book/Get_your_hands_dirty_on_clean_architecture/3.md)
+  - [4. 유스케이스 구현하기](https://github.com/ksy90101/TIL/blob/master/book/Get_your_hands_dirty_on_clean_architecture/3.md)
 ## 💻 lecture
 - [\[인프런\] Vue.js 시작하기 - Age of Vue.js](https://github.com/ksy90101/age-of-vue-js)
 - [\[Tacademy\] JPA 프로그래밍 기본기 다지기](https://github.com/ksy90101/tacademy-jpa-basic)
