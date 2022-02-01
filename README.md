@@ -185,6 +185,8 @@
   - [3. 코드 구성하기](https://github.com/ksy90101/TIL/blob/master/book/Get_your_hands_dirty_on_clean_architecture/3.md)
   - [4. 유스케이스 구현하기](https://github.com/ksy90101/TIL/blob/master/book/Get_your_hands_dirty_on_clean_architecture/4.md)
   - [5. 웹어댑터 구현하기](https://github.com/ksy90101/TIL/blob/master/book/Get_your_hands_dirty_on_clean_architecture/5.md)
+  - [6. 영속성 어댑터 구현하기](https://github.com/ksy90101/TIL/blob/master/book/Get_your_hands_dirty_on_clean_architecture/6.md)
+
 ## 💻 lecture
 - [\[인프런\] Vue.js 시작하기 - Age of Vue.js](https://github.com/ksy90101/age-of-vue-js)
 - [\[Tacademy\] JPA 프로그래밍 기본기 다지기](https://github.com/ksy90101/tacademy-jpa-basic)
