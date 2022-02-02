@@ -187,6 +187,7 @@
   - [5. 웹어댑터 구현하기](https://github.com/ksy90101/TIL/blob/master/book/Get_your_hands_dirty_on_clean_architecture/5.md)
   - [6. 영속성 어댑터 구현하기](https://github.com/ksy90101/TIL/blob/master/book/Get_your_hands_dirty_on_clean_architecture/6.md)
   - [7. 아키텍처 요소 테스트하기](https://github.com/ksy90101/TIL/blob/master/book/Get_your_hands_dirty_on_clean_architecture/7.md)
+  - [8. 경계 간 매핑하기](https://github.com/ksy90101/TIL/blob/master/book/Get_your_hands_dirty_on_clean_architecture/8.md)
 
 ## 💻 lecture
 - [\[인프런\] Vue.js 시작하기 - Age of Vue.js](https://github.com/ksy90101/age-of-vue-js)
