@@ -189,6 +189,7 @@
   - [7. 아키텍처 요소 테스트하기](https://github.com/ksy90101/TIL/blob/master/book/Get_your_hands_dirty_on_clean_architecture/7.md)
   - [8. 경계 간 매핑하기](https://github.com/ksy90101/TIL/blob/master/book/Get_your_hands_dirty_on_clean_architecture/8.md)
   - [9. 애플리케이션 조립하기](https://github.com/ksy90101/TIL/blob/master/book/Get_your_hands_dirty_on_clean_architecture/9.md)
+  - [10. 아키텍처 경계 강제하기](https://github.com/ksy90101/TIL/blob/master/book/Get_your_hands_dirty_on_clean_architecture/10.md)
 
 ## 💻 lecture
 - [\[인프런\] Vue.js 시작하기 - Age of Vue.js](https://github.com/ksy90101/age-of-vue-js)
