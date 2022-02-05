@@ -70,6 +70,9 @@
 - [Junit5의 @Nested를 이용해 테스트 작성해보자](https://github.com/ksy90101/TIL/blob/master/java/junit5_nested_annotation_using.md)
 - [자바의 접근제어자(public, protected, private, private-package)](https://github.com/ksy90101/TIL/blob/master/java/access-modifier-kinds.md)
 
+## 🍰 Kotlin
+- [Kotlin의 val vs var](https://github.com/ksy90101/TIL/blob/master/kotlin/val_vs_var.md)
+
 ## 🌆 Vue
 - [Vue에서 TypeScript로 Timer의 Leading Zeros를 구현해보자.](https://github.com/ksy90101/TIL/blob/master/Vue/vue2_typescript_timer_leading_zeros.md)
 - [Vue2에서 Meta Title를 테스트 해보자.](https://github.com/ksy90101/TIL/blob/master/Vue/vue_meta_title_testing.md)
