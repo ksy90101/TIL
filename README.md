@@ -120,6 +120,7 @@
 - [[RubyOnRails Guides] Active Record Basics](https://github.com/ksy90101/TIL/blob/master/rubyOnRails/ruby_on_rails_guide_active_record_basics.md)
 - [How Rails Sessions Work(어떻게 레일즈 세션은 동작하는가)](https://github.com/ksy90101/TIL/blob/master/rubyOnRails/How_Rails_Sessions_Work.md)
 - [Methods in Rails modules](https://github.com/ksy90101/TIL/blob/master/rubyOnRails/Methods_in_Rails_modules.md)
+- [devise_invitable를 테스트 해보자.](https://github.com/ksy90101/TIL/blob/master/rubyOnRails/devise_invitable_test.md)
 
 ## 📁 DataBase
 - [NoSQL vs RDBMS](https://github.com/ksy90101/TIL/blob/master/database/nosql-vs-rdbms.md)
