@@ -203,3 +203,5 @@
 - [모두를 위한 컴퓨터 과학 (CS50 2019)](https://www.boostcourse.org/cs112/)
     - [1. 컴퓨팅 사고](https://github.com/ksy90101/TIL/blob/master/cs50/1_computational_thinking.md)
     - [2. C언어](https://github.com/ksy90101/TIL/blob/master/cs50/2_c_language.md)
+- [\[스터디/12기\] 단순 CRUD는 그만! 웹 백엔드 시스템 구현(Spring Boot)](https://programmers.co.kr/learn/courses/13469)
+  - [1주차 세션 정리](https://github.com/ksy90101/TIL/blob/master/lecture/programmers_spring_study_1_session.md)
