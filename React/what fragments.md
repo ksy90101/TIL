@@ -1,4 +1,4 @@
-# **<> Fragments? </>**란?
+# <> Fragments? </>란?
 
 React 16.2부 터 Fragements를 지원해 DOM에 노드를 추가하지 않고 자식 목록을 그룹화 할 수 있습니다.
 
