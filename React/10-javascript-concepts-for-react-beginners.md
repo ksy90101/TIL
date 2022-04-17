@@ -1,4 +1,4 @@
-# [10 JavaScript concepts for React beginners - DEV Community(React 초보자를 위한 10가지 JavaScript 개념)](https://dev.to/sm0ke/10-javascript-concepts-for-react-beginners-4j6n)
+# [10 JavaScript concepts for React beginners(React 초보자를 위한 10가지 JavaScript 개념)](https://dev.to/sm0ke/10-javascript-concepts-for-react-beginners-4j6n)
 
 React는 JavaScript 프론트엔드 라이브러이며, 시작 하기 위해서는 JavaScript를 배워야 합니다. 그러나 JavaScript는 거대한 개념의 언어이기 떄문에 모든 것을 배우기에는 어렵습니다. 그래서 이 글에서는 React를 배우기 위해 알아야 하는 10가지의 JavaScript 개념에 대해 다룹니다.
 
