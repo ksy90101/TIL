@@ -68,8 +68,6 @@ public HashSet usingAddAll() {
 
 ## **2. `add` 보단 `addAll` 이 더 빠르다.**
 
-Similarly, `addAll` provides higher operations per second when compared with `add`. So next time when you are adding something to an array make sure that you pile them and add it using `addAll`.
-
 유사하게 `addAll` 은 `add` 를 사용했을때 보다 더 빠른 작업을 제공합니다. 따라서 무엇가를 추가할때는 `add` 보단 `addAll` 을 사용하는것이 좋습니다.
 
 ```java
@@ -108,8 +106,6 @@ public ArrayList<Integer> usingAddAll() {
 ---
 
 ## **3. Map에서 `KeySet` 보단 `EntrySet` 를 사용하라.**
-
-Do you iterate a lot over the map? Then use `entrySet` over the `keySet`.
 
 맵을 많이 반복한다면 ``keySet`` 보단 `entrySet`을 사용해야 합니다.
 
