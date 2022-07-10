@@ -82,6 +82,7 @@
 - [<> Fragments? </>란?](https://github.com/ksy90101/TIL/blob/master/React/what%20fragments.md)
 - [React의 defaultValue vs value](https://github.com/ksy90101/TIL/blob/master/React/value-vs-defaultValue.md)
 - [10 JavaScript concepts for React beginners - DEV Community(React 초보자를 위한 10가지 JavaScript 개념)](https://github.com/ksy90101/TIL/blob/master/React/10-javascript-concepts-for-react-beginners.md)
+- [React에 StoryBook을 입혀보자.](https://github.com/ksy90101/TIL/blob/master/React/stoybook-get-startting.md)
 
 ## 💎 Ruby
 - [ruby의 map vs each](https://github.com/ksy90101/TIL/blob/master/ruby/ruby_map_vs_each.md)
