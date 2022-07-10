@@ -1,7 +1,5 @@
 # React에 StoryBook을 입혀보자.
 
-# React에 StoryBook을 입혀보자.
-
 ## 도입
 
 - 최근 회사에서 webpack의 Module Federation을 도입하게 되면서 React 프로젝트를 도입할 수 있는 기회가 생기게 되었다.
