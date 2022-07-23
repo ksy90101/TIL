@@ -70,6 +70,7 @@
 - [Junit5의 @Nested를 이용해 테스트 작성해보자](https://github.com/ksy90101/TIL/blob/master/java/junit5_nested_annotation_using.md)
 - [자바의 접근제어자(public, protected, private, private-package)](https://github.com/ksy90101/TIL/blob/master/java/access-modifier-kinds.md)
 - [9 tips to Increase your Java performance(자바 성능을 향상시키기 위한 9가지 팁)](https://github.com/ksy90101/TIL/blob/master/java/9-tips-to-increase-your-java-performance.md)
+- [\[번역\] Java8에서 함수형 스타일로 리팩토링 : 레거시에서 람다로](https://github.com/ksy90101/TIL/blob/master/java/refactoring-to-functional-style-in-java-8-from-legacy-to-lambdas.md)
 
 ## 🍰 Kotlin
 - [Kotlin의 val vs var](https://github.com/ksy90101/TIL/blob/master/kotlin/val_vs_var.md)
