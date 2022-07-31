@@ -10,13 +10,12 @@
 ## 웹의 대표적인 요소
 ### URL(Uniform Resource Locator)
 - 인터넷 상에서 웹 자원이 어느 위치에 존재하는지 알려주는 방법
-![[Pasted image 20220731162416.png]]
-
+<img width="802" alt="image" src="https://user-images.githubusercontent.com/53366407/182019169-a786f947-4ca7-408f-9669-e3625aec8df1.png">
 
 ### 프로토콜(Protocol)
 - 웹 자원 위치를 접근하는 방식
 - 대표적으로 HTTP를 사용하며, 헤더(Header) / 바디(Body)로 구성되어 있다.
-![[Pasted image 20220731162304.png]]
+<img width="1027" alt="image" src="https://user-images.githubusercontent.com/53366407/182019184-ba326f0e-0ad2-439f-a8ea-9082a4e15e76.png">
 
 ### HTML(HpyerText Mark-up Language)
 - 웹 상의 콘텐츠를 브라우저를 통해 나타낼 수 있는 방법
