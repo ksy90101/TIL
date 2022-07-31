@@ -200,7 +200,8 @@
   - [9. 애플리케이션 조립하기](https://github.com/ksy90101/TIL/blob/master/book/Get_your_hands_dirty_on_clean_architecture/9.md)
   - [10. 아키텍처 경계 강제하기](https://github.com/ksy90101/TIL/blob/master/book/Get_your_hands_dirty_on_clean_architecture/10.md)
   - [11. 의식적으로 지름길 사용하기](https://github.com/ksy90101/TIL/blob/master/book/Get_your_hands_dirty_on_clean_architecture/11.md)
-
+- [웹에 날개를 달아주는 웹 성능 최적화 기법](https://webfrontend.org/)
+  - [1장. 웹 성능이란 무엇인가?](https://github.com/ksy90101/TIL/blob/master/book/web_performance_wing1.md)
 ## 💻 lecture
 - [\[인프런\] Vue.js 시작하기 - Age of Vue.js](https://github.com/ksy90101/age-of-vue-js)
 - [\[Tacademy\] JPA 프로그래밍 기본기 다지기](https://github.com/ksy90101/tacademy-jpa-basic)
