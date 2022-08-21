@@ -127,6 +127,8 @@
 - [devise_invitable를 테스트 해보자.](https://github.com/ksy90101/TIL/blob/master/rubyOnRails/devise_invitable_test.md)
 - [NamedRoute의 _path vs _url](https://github.com/ksy90101/TIL/blob/master/rubyOnRails/named_route%EC%9D%98_path_vs_url.md)
 
+## 🎯 Django
+- [Django Performance Improvements - Part 1: Database Optimizations(Django 성능 향상 - Part1: 데이터베이스 최적화)](https://github.com/ksy90101/TIL/blob/master/Django/django_performance_improvements_part1.md)
 ## 📁 DataBase
 - [NoSQL vs RDBMS](https://github.com/ksy90101/TIL/blob/master/database/nosql-vs-rdbms.md)
 - [개념 모델 vs 논리모델 vs 물리모델](https://github.com/ksy90101/TIL/blob/master/database/db_modelings.md)
