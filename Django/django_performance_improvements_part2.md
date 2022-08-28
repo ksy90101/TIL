@@ -1,6 +1,6 @@
 # Django 성능 향상 - Part2: 코드 최적화
 
-# ****[Django Performance Improvements - Part 2: Code Optimization(Django 성능 향상 - Part2: 코드 최적화)](https://blog.sentry.io/2022/07/05/django-performance-improvements-part-2-code-optimization/)
+# [Django Performance Improvements - Part 2: Code Optimization(Django 성능 향상 - Part2: 코드 최적화)](https://blog.sentry.io/2022/07/05/django-performance-improvements-part-2-code-optimization/)
 
 다음으로 소개할 글은Sentry 및 Python용 애플리케이션의 Profiler(프로파일러를 사용해 서비스를 개선하는 방법을 설명합니다. 이 게시물을 확인하여 Sentiry의 향후 애플리케이션 및 모바일 애플리케이션의 프로파일링 제인을 확인해보 긴급한 문제를 더 빨리 해결할 수 있도록 성능 모니터링에 대해서 투자하고 있습니다. 프로파일링을 처음 접하는 사람들을 위해 애플리케이션 프로파일러는 주어진 작업에서 발생하는 모든 단일 호출을 캡처해 성능 모니터링 데이터로 사용합니다. 아래에서 읽을 수 있듯이 프로파일링 데이터는 자체적으로는 분석하기 어려울 수 있습니다. Sentry의 오류 및 성능 모니터링과 함께 사용하면 개발자는 속도가 느린것을 알 수 있을뿐만 아니라 원인이 되는 함수까지 확인할 수 있습니다.
 
