@@ -129,6 +129,8 @@
 
 ## 🎯 Django
 - [Django Performance Improvements - Part 1: Database Optimizations(Django 성능 향상 - Part1: 데이터베이스 최적화)](https://github.com/ksy90101/TIL/blob/master/Django/django_performance_improvements_part1.md)
+- [Django Performance Improvements - Part 2: Code Optimization(Django 성능 향상 - Part2: 데이터베이스 최적화코드 최적화)](https://github.com/ksy90101/TIL/blob/master/Django/django_performance_improvements_part2.md)
+
 ## 📁 DataBase
 - [NoSQL vs RDBMS](https://github.com/ksy90101/TIL/blob/master/database/nosql-vs-rdbms.md)
 - [개념 모델 vs 논리모델 vs 물리모델](https://github.com/ksy90101/TIL/blob/master/database/db_modelings.md)
